@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-09T01:57:51.242114+00:00
+UPDATED AT: 2020-06-09T05:57:51.960719+00:00
 
 
 # Alabama
@@ -393,6 +393,8 @@ id: ca-losangeles-6
 
 Instagram photographer documented and photographed LAPD shooting larger than normal non-lethal round meant to bounce off the ground at the face of an unarmed homeless main in a wheelchair.
 
+id: ca-losangeles-24
+
 **Links**
 * https://www.instagram.com/p/CBCiZXOlno4/
 * https://www.dailynews.com/2020/06/03/dozens-arrested-in-downtown-los-angeles-tuesday-night-after-day-of-peaceful-protests/amp/
@@ -418,6 +420,8 @@ id: ca-losangeles-23
 
 Police zip-tied protesters' hands behind their backs and lock them into small cages. Officers also allegedly left them without medical care for hours and abused other prisoners. 
 
+id: ca-losangeles-25
+
 **Links**
 *  https://www.instagram.com/p/CBEr2emJRyJ/?igshid=oloj7lgtv81t (video on third slide)
 *  https://www.instagram.com/p/CBBNXXkJs0a/?igshid=jgeposybda4a
@@ -427,12 +431,12 @@ Police zip-tied protesters' hands behind their backs and lock them into small ca
 
 In Lakewood, police fire projectiles at protesters and discharge teargas.
 
+id: ca-los-angeles-40
+
 **Links**
 * https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
-* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&*  utm_medium=web2x
+* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
-
-ca-losangeles-40
 
 ## Oakland
 
@@ -509,7 +513,7 @@ id: ca-sacramento-29
 
 Police block off sidewalks to kettle protestors. Tear gas canisters can be heard as the police line advances. An officer fires on several fleeing protestors at close range. Protestors are shoved by authorities as they plead for officers to stop firing on them.
 
-id ca-sandiego-39
+id: ca-sandiego-39
 
 **Links**
 
@@ -809,6 +813,8 @@ id: co-denver-13
 
 Officer forces man into cop car and wrestles with woman on her phone.
 
+id: ct-waterbury-1
+
 **Links**
 
 * https://twitter.com/Youbeenafannn/status/1268253924471037959
@@ -816,6 +822,8 @@ Officer forces man into cop car and wrestles with woman on her phone.
 ### Police tackle and detain 6 protestors | May 31st
 
 Waterbury police have detained at least 6 people. Police had warned several times that those who remained on Wolcott St. would be subject to arrest.  #NBCCT
+
+id: ct-waterbury-2
 
 **Links**
 
@@ -919,7 +927,7 @@ id: ga-atlanta-1
 
 * https://www.cnn.com/2020/06/05/us/atlanta-police-body-slam-woman/index.html
 
-### Officer shoves a woman with his bike | May 30th
+### Officer shoves a woman with his bike | May 29th
 
 Police officer is seen shoving two women off onto the side with his bicycle.
 
@@ -928,6 +936,7 @@ id: ga-atlanta-2
 **Links**
 
 * https://twitter.com/ava/status/1266797973834395648?s=20
+* https://twitter.com/Brittm_tv/status/1266497944796225538
 
 ### Cops pull people out of their car, taze them | May 30th
 
@@ -940,13 +949,35 @@ id: ga-atlanta-3
 * https://twitter.com/danielvankirk/status/1266947767840063489
 * https://www.instagram.com/p/CA27quMhqJA/
 * https://twitter.com/SarahBaska/status/1267308455225774080?s=20
-* [News Report, The Evening Standard](https://www.standard.co.uk/news/world/atlanta-police-officers-fired-dragging-students-car-protest-a4457371.html#gsc.tab=0)
+* https://twitter.com/Brittm_tv/status/1267147449577148423
+* https://www.standard.co.uk/news/world/atlanta-police-officers-fired-dragging-students-car-protest-a4457371.html#gsc.tab=0
+
+### Police punch man on the ground, then tackle woman to ground who objects | May 30th
+
+Several officers can be seen sitting on a man on the ground, with one officer punching the man. A woman walks by and objects to their actions, at which point another officer drags her to the ground and cuffs her.
+
+id: ga-atlanta-4
+
+**Links**
+
+* https://twitter.com/ANGELCUCCl/status/1266939757252280321
+
+### Photographer tackled to the ground by four police officers | May 30th 
+
+A man with a camera around his neck is tackled to the ground and cuffed by four officers on live TV.  
+
+id: ga-atlanta-5
+
+**Links**
+
+* https://twitter.com/DanWolken/status/1266877753015570433
+* https://www.google.ca/maps/@33.7579387,-84.3934527,3a,75y,90.87h,90t/data=!3m7!1e1!3m5!1sHv2SqQHuYHJLG3QMKJ5srw!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DHv2SqQHuYHJLG3QMKJ5srw%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D91.04821%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192
 
 ### Police shove and shoot protesters | May 31st
 
 Police shove and shoot protesters; one man shot in the head, he is seen being carried away unconscious.
 
-id: ga-atlanta-5
+id: ga-atlanta-6
 
 **Links**
 * https://www.facebook.com/onlettingo/videos/10157072617626056
@@ -958,7 +989,7 @@ id: ga-atlanta-5
 
 One video shows the man on ground being punched in the face. The other shows that as well as someone else getting tased while they stand with their hands up.
 
-id: ga-lawrenceville-4
+id: ga-lawrenceville-1
 
 **Links**
 
@@ -979,7 +1010,7 @@ id: il-chicago-1
 
 **Links**
 
-https://twitter.com/alyssa_taylor45/status/1266895002904539137?s=20
+* https://twitter.com/alyssa_taylor45/status/1266895002904539137?s=20
 
 ### Protester shot in head with rubber bullet | May 30th
 
@@ -991,15 +1022,35 @@ id: il-chicago-2
 
 *  https://twitter.com/LUVRGRLLANI/status/1266866301001179136
 
+### Police pepperspray reporter for recording | May 30th
+
+Police pepperspray reporter holding press pass and yelling press.
+
+id: il-chicago-5
+
+**Links**
+
+* https://twitter.com/JCB_Journo/status/1266897672545480706
+
+### Police remove badges | (Believed to be) May 30th
+
+The video shows fficers standing in line, all missing the badges from their uniforms. The video poster, in the comments of the post, states that the officers took off their badges and then pushed protesters down the stairs and swung batons at them.
+
+id: il-chicago-11
+
+**Links**
+
+* https://old.reddit.com/r/PublicFreakout/comments/gtmbmh/cops_remove_badges_minutes_before_assault/
+
 ### Police harass and assault John Cusack | May 31st
 
-Police are apprehensive towards John Cusack recording a flaming car, proceed to harass him.
+Police are apprehensive towards John Cusack recording a flaming car, proceed to harass him. Cusack states in the tweet that the police came at him with batons, hitting his bike.
 
 id: il-chicago-3
 
 **Links**
-* https://twitter.com/johncusack/status/1266938983575101441
 
+* https://twitter.com/johncusack/status/1266938983575101441
 
 ### Police pull black women out of the car and throw them to the ground | May 31st
 
@@ -1009,19 +1060,9 @@ id: il-chicago-4
 
 **Links**
 * https://twitter.com/cruzzzyc/status/1267185423333199874
+* https://twitter.com/AdrienneWrites/status/1267534983054254081
 * https://blockclubchicago.org/2020/06/03/black-women-pulled-from-car-kneeled-on-by-chicago-police-officers-outside-northwest-side-mall-i-was-scared-for-my-life/
 * https://chicago.cbslocal.com/2020/06/03/police-drag-women-out-of-car-outside-brickyard-mall-woman-says-officer-put-knee-on-neck/
-
-
-### Police pepperspray reporter for recording | May 31st
-
-Police pepperspray reporter holding press pass and yelling press.
-
-id: il-chicago-5
-
-**Links**
-
-* https://twitter.com/JCB_Journo/status/1266897672545480706
 
 ### Cops hit Chicago Police Board President | May 31st
 
@@ -1035,6 +1076,28 @@ id: il-chicago-6
 
 * https://news.wttw.com/2020/06/05/police-board-president-officers-struck-me-5-times-their-batons-during-protest
 
+### Officer covers badge | May 31st
+
+In this still photo, the officer's ID number on their vest is covered with duct tape.
+
+id: il-chicago-10
+
+**Links**
+
+* https://twitter.com/KyleWilkins/status/1267268393809387520/photo/1
+
+### Officers are missing badges | May 31st
+
+Several photos and video in this Twitter thread show officers missing body cams, badges, or covering up badges on their uniforms on May 31st.
+
+id: il-chicago-13
+
+**Links**
+
+* https://twitter.com/CHICAGOCREATUR1/status/1268607315902697478
+* https://twitter.com/helllucinate/status/1267237866935136258
+* https://twitter.com/trashrascal/status/1268669040312147969
+
 ### Video showing CPD officer punching protester in Uptown under investigation | June 1st
 
 CPD officer chasing down and punching a protestor who was walking away.
@@ -1045,7 +1108,6 @@ id: il-chicago-7
 * https://www.youtube.com/watch?time_continue=44&v=_urY-W8otNA
 * https://chicago.suntimes.com/crime/2020/6/3/21279501/police-video-cpd-officer-punch-protester-uptown-investigation-copa
 
-
 ### CPD chase down protester on TV | June 1st
 
 Police chase protester and attack him on the ground while on live TV.
@@ -1053,19 +1115,42 @@ Police chase protester and attack him on the ground while on live TV.
 id: il-chicago-8
 
 **Links**
+
 *  https://twitter.com/BLMChi/status/1267486699321544704
+
+### Police grab protester and throw into brick wall | June 2nd
+
+A police officer and a protester are walking down the sidewalk and begin to verbally argue. The officer grabs the protester and a group of people appear. The protester starts to walk away when another officer pushes him into a brick wall.
+
+id: il-chicago-12
+
+**Links**
+
+* https://twitter.com/ChrisDitton/status/1267675836892708864
+
+### Police hit several protesters with batons | (Believed to be) June 3rd
+
+The cameraman films several groups of people on the street and sidewalk who are hit with batons by police officers.
+
+id: il-chicago-9
+
+**Links**
+
+* https://twitter.com/TomSchuba/status/1268312957752160257
 
 ## Joliet
 
 ### Officers grabs someone by the neck then more cops pile on | May 31st
 
-Protestors arrested as they're leaving, including one grabbed by the neck and dogpiled by at least 3 police officers.
+Protestors arrested as they're leaving, including one grabbed by the neck by city mayor, Bob O'Dekirk, and dogpiled by at least 3 police officers.
 
 id: il-joliet-1
 
 **Links**
 
 * https://www.youtube.com/watch?v=rllO2sdj1Ek
+* https://twitter.com/OrozcoJustina/status/1268262843801010179
+* https://www.chicagotribune.com/news/breaking/ct-joliet-mayor-video-fallout-20200606-zeidd3u5xbadxfoedmfkp22akm-story.html
 
 
 
@@ -1082,6 +1167,7 @@ id: in-fortwayne-1
 **Links**
 
 * https://twitter.com/greg_doucette/status/1266745200656990208
+* https://twitter.com/_isabel_a/status/1266580681251000321
 
 ### Police tear gas peaceful protesters | May 30th
 
@@ -1232,7 +1318,7 @@ https://twitter.com/DesMoinesBLM/status/1268710416219242496?s=19&fbclid=IwAR3z0S
 
 Iowa City Police shoot tear gas at peaceful protestors who have their hands up. Some protestors stumble and fall as they try to flee.
 
-id: ia-iowacity-2
+id: ia-iowacity-1
 
 **Links**
 
@@ -1915,6 +2001,7 @@ Three police officers run over to and tackle man with hands raised giving an int
 id: ny-buffalo-1
 
 **Links**
+
 * https://twitter.com/secretlaith/status/1268251322467450880
 
 ### Police shove elderly man, causing him to fall and hit the back of his head | June 4th
@@ -1935,6 +2022,16 @@ id: ny-buffalo-2
 * https://www.wivb.com/news/five-people-arrested-one-person-injured-during-protest-activity-in-niagara-square/
 * https://www.reddit.com/r/PublicFreakout/comments/gwv7k4/just_about_an_hour_ago_police_officers_shove_man/fsxfeb3/
 
+### Reporter shot at after identifying himself | June 5th
+
+Reporter shot at over a dozen times at close range and arrested, despite identifying himself. Was told his 1st Amendment rights did not matter.
+
+id: ny-buffalo-28
+
+**Links**
+
+*  https://twitter.com/PhotoJazzy/status/1269056626843099137
+
 ## Rochester
 
 ### Police shoot at people filming | May 31st
@@ -1944,6 +2041,7 @@ Police are seen shooting at individuals who were recording an incident.
 id: ny-rochester-3
 
 **Links**
+
 * https://twitter.com/bleeezyy_/status/1266894195865931778
 
 
@@ -2288,6 +2386,16 @@ id: oh-cincinnati-2
 
 * https://touch.facebook.com/story.php?story_fbid=10157718199384132&id=697759131&ref=bookmarks
 
+### Police arrest reporter and force him to ground, grab another reporter | June 1st
+
+Video shows multiple police seizing a reporter and forcing him to the ground. The source claims he was grabbed by his bandana and pulled into multiple officers as well. 
+
+**Links**
+
+id: oh-cincinnati-3
+
+*  https://twitter.com/nswartsell/status/1267612155840528385
+
 ## Cleveland
 
 ### Officer swings baton at protesters, beats one who is trying to keep crowd back | believed to be May 30th
@@ -2456,6 +2564,15 @@ id: oh-columbus-16
 * https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
 * Part 1: https://www.tiktok.com/@zestaz/video/6833912697436867845
 * Part 2: https://www.tiktok.com/@zestaz/video/6833913925231185158
+
+### Officer chases reporter and pepper sprays her | May 30th
+
+A student journalist identified herself as a journalist, and when attempting to leave was told "It's too fucking late to leave". She was then chased by a police officer, who pepper sprayed her three times. 
+
+**Links**
+
+*  https://pressfreedomtracker.us/all-incidents/student-journalist-chased-pepper-sprayed-during-protests-columbus/
+*  https://twitter.com/julialwashere/status/1266730657436315649
 
 
 
@@ -2717,6 +2834,8 @@ id: sc-charleston-1
 ### Police Assault Suspect on Ground During Arrest | June 3rd
 A man is arrested by police, who force him on the ground and begin punching him for over a minute.
 
+id: sc-unknown-1
+
 **Link**
 *   https://twitter.com/track4life_bry/status/1268313958479532034
 
@@ -2903,6 +3022,8 @@ id: tx-dallas-13
 ### Man shot in the eye | May 30th
 
 Man at the protests had been shot in the eye by officers.
+
+id: tx-dallas-16
 
 **Links**
 
@@ -3093,6 +3214,8 @@ id: va-richmond-4
 
 Bodycam footage shows an unarmed man walking around in the street until an officer fires his stun gun at him. The officer continues to stun the man, even after he begins telling them to stop. Near the end of the footage he can be heard saying "I can't breathe".  
 
+id: va-fairfax-1
+
 **Links**
 *  https://ktla.com/news/nationworld/a-virginia-police-officer-faces-charges-for-use-of-stun-gun-on-a-black-man/
 *  https://forthuntherald.com/mount-vernon-police-officer-who-forcefully-apprehended-a-black-man-charged-with-assault-battery/
@@ -3152,7 +3275,7 @@ id: wa-seattle-4
 
 A sheriff throws a canister of tear gas into a crowd of peaceful protestors.
 
-id:  wa-seattle-8
+id: wa-seattle-8
 
 **Links** 
 
@@ -3249,7 +3372,7 @@ id: wa-seattle-13
 
 Teargas is seen being spread into group of protesters by police
 
-id: wa-seattle-12
+id: wa-seattle-15
 
 **Links**
 
@@ -3259,6 +3382,8 @@ id: wa-seattle-12
 ### Woman hit with police projectile resumes breathing after CPR, delivered to hospital | June 7th
 
 Medics attempt to treat "a young woman in her 20s who had taken a police projectile to her chest" as police throw flash bang grenades directly into the first aid center. There were several cycles of the victim no longer responding or breathing but becoming responsive again after CPR. 911 could not send an ambulance. Eventually a civilian transported her by car to the ED where she was delivered with a pulse. The filmer, an editor at the local alt weekly The Stranger, reported in his twitter thread that the people in the office from where he was filming were having trouble breathing.
+
+id: wa-seattle-14
 
 **Links**
 
@@ -3348,6 +3473,8 @@ id: dc-dc-5
 
 In the first of these videos, a crowd can be seen shaking a piece of temporary fencing. Either in response to this or to secure the fence, law enforcement officers fire rubber bullets into the crowd to clear them. In the second video and third videos, officers pepper-spray a kneeling protestor and a CNN camera crew. The second video ends with more rubber bullets being fired. The reason for this is unknown.
 
+id: dc-dc-9
+
 **Links**
 
 * https://twitter.com/MarkIronsMedia/status/1268046417865715713
@@ -3358,6 +3485,8 @@ In the first of these videos, a crowd can be seen shaking a piece of temporary f
 ### Law enforcement officers throw stinger grenades at peaceful protestors | Junes 3rd
 
 In this video, officer throw stinger grenades in a crowd chanting "black lives matter". Throughout, grenades continue to be used, one of which explodes directly in front of a peaceful protestor.
+
+id: dc-dc-10
 
 **Links**
 
