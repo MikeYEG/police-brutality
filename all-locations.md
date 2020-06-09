@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-08T22:00:26.375668+00:00
+UPDATED AT: 2020-06-09T01:57:51.242114+00:00
 
 
 # Alabama
@@ -195,6 +195,7 @@ id: ca-lamesa-3
 * At approximately 10:20  https://www.facebook.com/100010947670361/videos/1115087385532840
 * https://mobile.twitter.com/MarajYikes/status/1267030131563827200
 * https://mobile.twitter.com/chadloder/status/1267290221562871809/photo/1
+
 
 ## Long Beach
 
@@ -422,6 +423,16 @@ Police zip-tied protesters' hands behind their backs and lock them into small ca
 *  https://www.instagram.com/p/CBBNXXkJs0a/?igshid=jgeposybda4a
 *  https://abc7.com/protest-arrest-george-floyd-curfews/6234180/
 
+### Police fire projectiles at protesters and discharge teargas | June 5th
+
+In Lakewood, police fire projectiles at protesters and discharge teargas.
+
+**Links**
+* https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
+* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&*  utm_medium=web2x
+* https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
+
+ca-losangeles-40
 
 ## Oakland
 
@@ -690,6 +701,18 @@ id: co-denver-5
 
 * https://twitter.com/DoughertyKMGH/status/1266560264918491138/video/1
 
+
+### Police discharge tear gas into group of protesters | May 29th
+
+An officer is seen pointing to another officer, directing towards middle of protesters. The other officer is then seen throwng a tear gas canister underhanded into group of protesters. Sounds of projectiles are heard being shot after tear gas is discharge. 
+
+id: co-denver-14
+
+**Links**
+
+* https://www.reddit.com/r/Denver/comments/gslcxb/the_moment_the_cops_tear_gassed_the_protesters_at/
+
+
 ### Police throw reporter into fire | May 30th
 
 Policemen throw a reporter into the fire for trying to take images of the scene.
@@ -711,9 +734,6 @@ id: co-denver-7
 **Links**
 
 * https://twitter.com/moneyroe99/status/1266956171409346566
-
-
-
 
 
 ### Denver law enforcement shoot at reporter standing on the sidewalk | May 30th
@@ -1148,6 +1168,64 @@ id: ia-desmoines-1
 
 * https://twitter.com/greg_doucette/status/1268235074580987906
 
+
+### Police repeatedly shoot tear gas into crowd, even after crowd has dispersed | May 29th
+
+Police throw multiple rounds of tear gas into crowd of protestors. According to the reporters, mace was also used on the crowd, although this was not caught on video. After the first round of tear gas is thrown, the crowd disperses, however the police continue to throw more canisters for at least 10-15 minutes longer. While there was some violence earlier in the evening, according to KCCI, the protestors were peaceful before the canisters were thrown. 
+
+id: ia-desmoines-2
+
+**Links**
+
+* https://www.kcci.com/article/developing-protesters-face-off-with-police-in-downtown-des-moines/32717301
+
+### Police truck shoots at cars, hitting mother and breaking her finger | May 30th
+
+Recorded from inside a car, camera pans to surroundings, a woman's hand in the car with a broken finger, and to a police truck nearby. Description says "'rubber bullets' tear gas was also dispersed but this person was hit by a rubber bullet for sure"
+
+id: ia-desmoines-3
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/gxlfdo/police_truck_shoots_at_cars_hitting_mother_and/?utm_source=share&utm_medium=web2x
+* https://www.tiktok.com/@jakegracey/video/6834936818799004934?source=h5_m
+* [Location via Google Street View](https://www.google.ca/maps/@41.6293563,-93.6988361,3a,75y,358.27h,68.85t/data=!3m6!1e1!3m4!1s5NdIPPqrW0kAv0Ge9xX4EQ!2e0!7i16384!8i8192)
+
+### Police pepper spray Des Moines Register reporter even as she repeatedly announced herself as press | June 1st
+
+Reporter shouts "I'm press! I'm press! I'm going! I'm with the Des Moines Register" repeatedly as she tries to walk away from police. An officer quickly approaches her and pepper sprays her in the eye. 
+
+id: ia-desmoines-4
+
+**Links**
+
+* https://twitter.com/katie_akin/status/1267694434847731713
+* https://www.desmoinesregister.com/story/news/2020/06/02/des-moines-police-pepper-spray-journalist-iowa-george-floyd-protest-des-moines-register-reporter/3126478001/
+
+### Armed police raid gay bar helping wounded Black Lives Matter protesters on the first day of Pride Month | June 5th 
+
+"Des Moines police approached The Blazing Saddle, a gay bar in Des Moines’ East Village neighborhood, and searched the premises — apparently without a warrant. Video from a security camera made public on Facebook shows officers in riot gear converging suddenly on the bar at approximately 11:45 p.m. and detaining those gathered outside." - The Iowa Inquirer
+
+id: ia-desmoines-5
+
+**Links**
+
+* https://www.pinknews.co.uk/2020/06/05/police-raid-blazing-saddle-des-moines-iowa-black-lives-matter-stonewall/?fbclid=IwAR20SUPSke3O_U2jqXaicl3dOcKwKPYlG5eOc131oao76Z2rEXXz0-ASORQ
+* http://iowainformer.com/politics/2020/06/des-moines-gay-bar-raided-amid-black-lives-matter-protests-as-pride-month-begins/
+* https://twitter.com/aaronpcalvin/status/1268708285517004801
+* [Location via Google Street View](https://www.google.ca/maps/place/The+Blazing+Saddle/@41.590306,-93.6114412,3a,75y,275.31h,90t/data=!3m7!1e1!3m5!1sysYseTIG29m9bjNYmZ71zQ!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DysYseTIG29m9bjNYmZ71zQ%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D275.31018%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192!4m7!3m6!1s0x87ee99b1e2f004c9:0xf6f27ceb30ff9e27!8m2!3d41.5902914!4d-93.6115743!14m1!1BCgIgARICCAI)
+
+### Police arrest a nonviolent Black cyclist at a BLM supply drop-off event | June 4th
+
+Police arrest a Black cyclist at a BLM supply drop-off event. The cyclist, with a Guy Fawkes mask, stands in the middle of a parking lot as two police officers handcuff him and pull him into their vehicle. After questioning him, they release him saying they “got the wrong guy".
+
+id: ia-desmoines-6
+
+**Links**
+
+https://twitter.com/DesMoinesBLM/status/1268710416219242496?s=19&fbclid=IwAR3z0SHL6ULykmUX_V6Um-nOHiRQACj-r9XDDmvtIc-o5D10zVi9_3OTVaE
+
+
 ## Iowa City
 
 ### Police shoot tear gas at peaceful protestors who have their hands up | June 3rd
@@ -1357,6 +1435,16 @@ id: mi-detroit-4
 
 * https://twitter.com/joeguillen/status/1266563974658744321
 
+### Riot police charge peaceful protestors | May 29th
+
+Riot police charge peaceful protestors without warning. The filming protestor and numerous others are beaten with riot shields.
+
+id: mi-detroit-8
+
+**Links**
+
+* https://twitter.com/julietmariaa/status/1266568356976635904
+
 ### Police shove and scream at men walking down the street | May 30th
 
 Police screamed at men walking away from them and attempting to leave the scene as directed, then violently shoved one of the men to the ground.
@@ -1387,6 +1475,16 @@ id: mi-detroit-3
 **Links**
 
 * https://twitter.com/reporterdavidj/status/1266966021077962752
+
+### Woman is charged by police and thrown to the ground | May 30th
+
+Police charge protestors. One woman does not flee and a police officer knocks her to the ground with his fist, before kneeling on her back to arrest her.
+
+id: mi-detroit-9
+
+**Links**
+
+* https://twitter.com/TheModLibrarian/status/1266587927783620613
 
 ## Grand Rapids
 
@@ -1458,6 +1556,16 @@ id: mn-minneapolis-1
 * https://twitter.com/rsdaza/status/1267200011659554824
 * https://twitter.com/MichaelAdams317/status/1267203751913422849
 * https://www.vice.com/en_us/article/y3zd7g/i-told-riot-cops-im-a-journalist-they-forced-me-to-the-ground-and-pepper-sprayed-me-in-the-face
+
+### Continuation of gas station event; Awaijane family told to go inside gas station, they comply and seek shelter inside, police then shoot rubber bullets and tear gas inside the building | May 30th
+
+The Awaijane family who owned a gas station had family and friends protecting their property from looters, when police arrived they were told to go inside. The family complied and the event was followed by police shooting rubber bullets and tear gas in to the gas station.
+
+id: mn-minneapolis-21
+
+**Links**
+
+* https://youtu.be/46qWpv-yFE8?t=268
 
 ### Police drive by spraying | May 30th
 
@@ -1994,6 +2102,8 @@ id: ny-newyorkcity-24
 
 Videos showed police in New York hitting demonstrators with batons in several locations over the past few days. One of those struck was Huascar Benoit, 21, who said he was peacefully protesting in Brooklyn when a police officer hit him with a baton, fracturing bones in his face, injuries that might require surgery.
 
+id: ny-newyorkcity-26
+
 **Links**
 
 * https://wapo.st/2Mx7WY6
@@ -2079,6 +2189,16 @@ id: ny-newyorkcity-23
 **Links**
 
 * https://twitter.com/AndomForNY/status/1269065176814358529
+
+### Multiple police officers tackle cyclist protester one officer punches head of protester | June 6th
+
+Multiple police officers tackle a cyclist on a Black Lives Matter group ride. The man is repeatedly punched in the head by an officer and as the person filming shouts at him not to resist, he shouts "I'm not!"
+
+id: ny-newyorkcity-27
+
+**Links**
+
+* https://www.reddit.com/r/Brooklyn/comments/gy40fz/nypd_aggressively_arrest_cyclist_on_blm_group_ride/?utm_source=share&utm_medium=web2x
 
 
 
@@ -3100,6 +3220,8 @@ id: wa-seattle-5
 **Links**
 
 * https://twitter.com/catsayshello/status/1268073344814866432
+* https://www.instagram.com/tv/CA63KMnlVvu/?igshid=hfp3uoaqe23p
+* https://old.reddit.com/r/Seattle/comments/gv0ru3/this_is_the_moment_it_all_happened/
 
 ### Officer chokes and places knee on neck of woman | June 6th
 
