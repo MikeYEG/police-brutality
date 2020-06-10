@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-10T01:58:06.445258+00:00
+UPDATED AT: 2020-06-10T05:57:51.937767+00:00
 
 
 # Alabama
@@ -623,6 +623,7 @@ id: ca-sanjose-2
 * https://twitter.com/greg_doucette/status/1269267786792144898
 * https://abc7news.com/man-who-trains-san-jose-police-about-bias-severely-injured-by-riot-gun-during-protest/6234212/
 * https://www.latimes.com/california/story/2020-06-06/community-organizer-shot-by-rubber-bullet-during-protest
+* https://www.fox23.com/news/trending/george-floyd-protests-san-jose-police-fire-rubber-bullets-own-bias-trainer-rupture-his-testicle/K5HUBNAHTJERPBKA2CVC2B5LRU/
 
 
 ### Police knocks phone out of protestor's hand; riot control measures follow | May 29th
@@ -944,6 +945,7 @@ id: fl-fortlauderdale-2
 **Links**
 
 * https://www.miamiherald.com/news/local/community/broward/article243193481.html
+* https://twitter.com/MrEvanRoss/status/1270440535518560256
 
 
 ## Miami
@@ -1785,7 +1787,7 @@ id: mi-kalamazoo-2
 
 A group of cops start to approach a group of press taking photos and video. One press member repeats "we have our hands up and we have press passes". An officer walking by points in the direction of a photographer and says something indiscernable. The camera pans to show a cop hitting the photographer in the neck and head with a wooden baton.
 
-id: mn-minneapolis-22
+id: mn-minneapolis-21
 
 **Links**
 
@@ -1822,7 +1824,7 @@ id: mn-minneapolis-1
 
 The Awaijane family who owned a gas station had family and friends protecting their property from looters, when police arrived they were told to go inside. The family complied and the event was followed by police shooting rubber bullets and tear gas in to the gas station.
 
-id: mn-minneapolis-21
+id: mn-minneapolis-20
 
 **Links**
 
@@ -1874,28 +1876,28 @@ id: mn-minneapolis-15
 * https://mobile.twitter.com/chadloder/status/1266962631887224837
 
 
-### Police shoot rubber bullets and teargas at an MSNBC reporter | believed to be May 30th
-
-Police shoot rubber bullets and teargas at a reporter and his crew, as they're broadcasting live on-air, while retreating from the police line.
-
-id: mn-minneapolis-16
-
-**Links**
-
-* https://twitter.com/greg_doucette/status/1267118696960528386
-
-
 ### Swiss journalists shot at with rubber bullets by police | May 30th
 
 In the video, police can be seen in the distance and shots towards the camera can be heard. According to news reports, journalist Gaspard Kühn stated that the journalists showed press passes and called out that they were journalists, asking for safe passage. Police told the men to “back up” and then shot rubber bullets at them.
 
-id: mn-minneapolis-17
+id: mn-minneapolis-16
 
 **Links**
 
 * [Video](https://www.srf.ch/play/tv/news-clip/video/schweizer-journalisten-werden-mit-gummischrot-attackiert?id=67d44dd8-f16e-4db0-b690-799ab827956a&startTime=9)
 * [German-language news article](https://www.srf.ch/news/international/pressefreiheit-unter-beschuss-schweizer-journalisten-in-den-usa-von-polizei-attackiert)
 * [English-language news article](https://www.swissinfo.ch/eng/minneapolis-protests-_rubber-bullets-shot-at-swiss-journalists-by-us-police-/45808806)
+
+
+### Camera man shot by police | May 30th
+
+Law enforcement shoot a reporter with a huge camera and a helmet labeled PRESS. 
+
+id: mn-minneapolis-27
+
+**Links**
+
+* https://twitter.com/brianstelter/status/1266910826797113347
 
 
 ### Police shoot at a woman on her porch | May 31st
@@ -2010,7 +2012,7 @@ id: mn-minneapolis-13
 
 Police responding to a medical emergency – a tanker truck deliberately running over protestors – slow down to pepperspray folks from their SUV. Location: I-35W I-94. Some car numbers involved: first spraying (0:08 in first video) is car 30? (cannot make out last digit), second spraying (0:13 in first video) is car 352, third spraying (0:20 at camera) is car 830.
 
-id: mn-minneapolis-18
+id: mn-minneapolis-17
 
 **Links**
 
@@ -2021,7 +2023,7 @@ id: mn-minneapolis-18
 
 A PCA who was treating someone with a rubber bullet wound reports that officers approached the nurses' tent and opened fire with rubber bullets.
 
-id: mn-minneapolis-19
+id: mn-minneapolis-18
 
 **Links**
 
@@ -2032,7 +2034,7 @@ id: mn-minneapolis-19
 
 South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol"
 
-id: mn-minneapolis-20
+id: mn-minneapolis-19
 
 **Links**
 
@@ -2911,6 +2913,19 @@ id: ok-oklahomacity-1
 **Links**
 
 * https://twitter.com/BruceBrownJr/status/1266979654499479552
+
+### Law enforcement uses tear-gas several times | May 30th
+
+Four different videos, in what is believed to be chronological order, show law enforcement using tear-gas on protestors that are standing. 
+
+id: ok-oklahomacity-2
+
+**Links**
+
+* https://twitter.com/benfelder_okc/status/1266950330161532928
+* https://twitter.com/benfelder_okc/status/1266956993669017600
+* https://twitter.com/benfelder_okc/status/1266963119160594432
+* https://twitter.com/benfelder_okc/status/1266966743404236800
 
 
 
