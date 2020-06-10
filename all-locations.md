@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-10T05:57:51.937767+00:00
+UPDATED AT: 2020-06-10T17:58:48.525406+00:00
 
 
 # Alabama
@@ -637,6 +637,17 @@ id: ca-sanjose-4
 **Links**
 
 * https://twitter.com/itssdelilahh/status/1266575145537163269
+
+
+### Man struck by rubber bullet and explosive device | May 29th
+
+A protestor filming receives water bottles from a car and begins to distribute them. Without warning, police fire into the ground. The man is hit and is helped by a second protestor. While the second protestor is attempting to help, a canister explodes at the man's feet.
+
+id: ca-sanjose-5
+
+**Links**
+
+* https://www.youtube.com/watch?v=89mUHzu3480
 
 
 ## San Luis Obispo
@@ -2454,7 +2465,7 @@ id: ny-newyorkcity-17
 
 Good Call Hotline, a non-profit which helps connect detainees to their loved ones and to free legal counsel, claims that the NYPD "refused to allow protesters to exercise their 6th amendment right to counsel."
 
-id: ny-newyorkcity-27
+id: ny-newyorkcity-29
 
 **Links**
 
@@ -2619,6 +2630,20 @@ id: nc-raleigh-1
 * https://www.instagram.com/p/CA51AJxH7S9 (on the sixth page)
 * https://www.newsobserver.com/news/local/article243202416.html
 * [Location via Google Street View](https://www.google.ca/maps/place/Ruby+Deluxe/@35.7751916,-78.6399548,3a,75y,200h,110t/data=!3m8!1e1!3m6!1sAF1QipNhx_FNSPOaN4hGuIYYghr65DJZ0mkvvz7WFWuf!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNhx_FNSPOaN4hGuIYYghr65DJZ0mkvvz7WFWuf%3Dw203-h100-k-no-pi-20-ya200-ro0-fo100!7i13090!8i6545!4m14!1m6!3m5!1s0x89ac5f717fe131a7:0x9961c6fed0c27f79!2sRuby+Deluxe!8m2!3d35.7751916!4d-78.6399548!3m6!1s0x89ac5f717fe131a7:0x9961c6fed0c27f79!8m2!3d35.7751916!4d-78.6399548!14m1!1BCgIgARICCAI)
+
+
+## Wilmington
+
+### Police kneel to lure protestors closer before firing | June 3rd
+
+Police feign a show of support by kneeling and draw protestors closer. After protestors kneel, police begin firing tear gas rounds.
+
+id: nc-wilmington-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268047376008216576
+* https://twitter.com/greg_doucette/status/1268047092079112198
 
 
 
@@ -3083,6 +3108,18 @@ id: pa-philadelphia-3
 
 * https://metro.co.uk/2020/06/01/cop-put-baton-george-floyd-protesters-hand-put-knee-neck-12789427/
 * https://twitter.com/mkultranews/status/1267305587206807553
+
+
+### Police fire tear gas down empty streets | May 31st
+
+An officer mounted atop a personnel carrier fires several tear gas rounds down an empty street without apparent justification
+
+id: pa-philadelphia-9
+
+**Links**
+
+* https://twitter.com/cynthiaschemmer/status/1267199590987714560
+* https://twitter.com/greg_doucette/status/1267859272639164416
 
 
 ### Philadelphia Police Trap Protesters on Highway, Then Tear Gas Them and Shoot Rubber Bullets | June 1st
