@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-10T17:58:48.525406+00:00
+UPDATED AT: 2020-06-11T01:57:44.845812+00:00
 
 
 # Alabama
@@ -52,7 +52,7 @@ id: al-huntsville-4
 *  https://www.alreporter.com/2020/06/03/huntsville-police-deploy-tear-gas-rubber-bullets-on-protesters/
 
 
-### Police fire rubber bullets on dispersing crowd | Believed to be June 5th
+### Police fire rubber bullets on dispersing crowd | (believed to be) June 5th
 
 After disperse order is given, protestors comply and begin to back away from the police line. Police fire rubber bullets at dispersing protestors and harrass woman (filmer) who has been shot in the leg and is unable to move quickly.
 
@@ -261,6 +261,19 @@ id: ca-losangeles-5
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
 
+### Police transport arrested protestors using public transportation | May 30th
+
+LAPD using Metro buses to transport arrested protestors after transit service shutdown. 
+
+id: ca-losangeles-24
+
+**Links**
+
+* https://twitter.com/LAist/status/1267006683596775424
+* https://twitter.com/jimw/status/1267666982544932866
+* https://twitter.com/MattHjourno/status/1267658943486017536
+* https://thesource.metro.net/2020/06/01/metro-explains-decision-to-suspend-service-saturday-night-and-law-enforcements-use-of-our-buses/
+
 
 ### Police fire rubber/pepper bullets at innocent protestors | May 31st
 
@@ -410,7 +423,7 @@ id: ca-losangeles-1
 
 ### Photograph documents aftermath of LAPD firing non-lethal round at face of homeless man in wheelchair | June 2
 
-Instagram photographer documented and photographed LAPD shooting larger than normal non-lethal round meant to bounce off the ground at the face of an unarmed homeless main in a wheelchair.
+Instagram photographer documented and photographed LAPD shooting larger than normal non-lethal round meant to bounce off the ground at the face of an unarmed homeless man in a wheelchair.
 
 id: ca-losangeles-18
 
@@ -463,7 +476,7 @@ id: ca-los-angeles-20
 
 ## Oakland
 
-### Officer runs down protesters with police cruiser | Believed to be May 30th
+### Officer runs down protesters with police cruiser | (believed to be) May 30th
 
 A police cruiser in Oakland was seen driving erratically and chasing down protesters in the street, hitting several of them.
 
@@ -511,9 +524,9 @@ id: ca-sacramento-1
 * https://twitter.com/mynameschazz/status/1266978442722947072?s=21
 
 
-### Sacramento law enforcement shoot shoot protesters and then announce their assembly unlawful | June 1st
+### Sacramento law enforcement shoot protesters and then announce their assembly is unlawful | June 1st
 
-Sacramento law enforcement shoot shoot protesters and then announce their assembly unlawful.
+Sacramento law enforcement shoot protesters and then announce their assembly is unlawful.
 
 id: ca-sacramento-2
 
@@ -925,6 +938,23 @@ id: ct-waterbury-1
 * https://twitter.com/Youbeenafannn/status/1268253924471037959
 
 
+
+
+
+# Delaware
+
+## Dover
+
+### USA Today journalist arrested | June 9th
+
+A journalist is filming and asking the police why protestors are being arrested. The police tackle the him and he states loudly "I'm with the press" multiple times. The video ends with an officer confiscating his press press and bag; another officer off camera is heard saying to the journalist "Shh, you've been no help here". The news article video has more context, the reddit video only shows the arrest. 
+
+id: de-dover-1
+
+*Links*
+
+* https://www.usatoday.com/story/news/nation/2020/06/09/george-floyd-protests-usa-today-network-reporter-arrested-delaware/5331163002/
+* https://v.redd.it/u78faokca3451
 
 
 
@@ -2390,7 +2420,8 @@ id: ny-newyorkcity-9
 
 **Links**
 
-* https://twitter.com/_doreenpt/status/1266994439039455232
+* [Original Post](https://twitter.com/ajrupchandani/status/1266889115288711168?s=21)
+* [Cross Post](https://twitter.com/_doreenpt/status/1266994439039455232)
 
 
 ### NYPD rams protesters | May 31st
@@ -2665,6 +2696,17 @@ id: nd-fargo-1
 
 
 # Ohio
+
+## Beavercreek
+
+### Police use tear gas on protestors peacefully blocking road | June 1st
+
+Police tell protestors blocking road to disperse and then immediately use tear gas on them. 
+
+id: oh-beavercreek-1
+
+**Links**
+* [tear gas used around 9:30](https://www.facebook.com/daytondailynews/videos/203371377358112)
 
 ## Cincinnati
 
