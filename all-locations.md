@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-14T05:57:47.886524+00:00
+UPDATED AT: 2020-06-15T18:00:56.575852+00:00
 
 
 # Alabama
@@ -2778,6 +2778,7 @@ id: ny-newyorkcity-1
 * https://twitter.com/whitney_hu/status/1266540710188195843
 * https://twitter.com/JasonLemon/status/1266529475757510656
 * https://twitter.com/zayer_dounya/status/1266581597760831489
+* https://www.democracynow.org/2020/6/15/dounya_zayer_nypd_attack
 
 
 ### Police drive by man and hit him with car door | May 29th
