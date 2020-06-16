@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-16T01:58:07.932618+00:00
+UPDATED AT: 2020-06-16T17:59:34.957043+00:00
 
 
 # Alabama
@@ -1642,6 +1642,20 @@ id: in-fortwayne-4
 * https://mobile.twitter.com/chadloder/status/1267279165230743553/photo/2
 
 
+### Police break up a small protest and shoots at them as they leave | June 14th
+
+There is a very small protest of what appears to be no more than 15 people. Police arrive declaring it an unlawful assembly. Some of the protestors, including the person filming, go into a nearby restaurant because their car was in the direction of the police and they did not feel comfortable walking towards them. Two militarized police come into the restaurant and make them exit. The police tell them to run, motioning with their hands in the direction away from the protestor's car, despite the protestor trying to explain that they need to go in the other direction to actually leave. They run as they are told, and say they have their hands up. It then appears the police fire rubber bullets at them, the camera was facing away from the police but it picks up the sounds. The video is in two parts and includes further context via subtitles.
+
+tags: rubber-bullets, inhumane-treatment
+
+id: in-fortwayne-5
+
+**Links**
+
+* https://vm.tiktok.com/J1Vja3J/
+* https://vm.tiktok.com/J1bkxrf/
+
+
 ## Indianapolis
 
 ### Police confiscate medical supplies from medical station | May 29th
@@ -2339,7 +2353,6 @@ id: mn-minneapolis-16
 
 * [Video](https://www.srf.ch/play/tv/news-clip/video/schweizer-journalisten-werden-mit-gummischrot-attackiert?id=67d44dd8-f16e-4db0-b690-799ab827956a&startTime=9)
 * [German-language news article](https://www.srf.ch/news/international/pressefreiheit-unter-beschuss-schweizer-journalisten-in-den-usa-von-polizei-attackiert)
-* [English-language news article](https://www.swissinfo.ch/eng/minneapolis-protests-_rubber-bullets-shot-at-swiss-journalists-by-us-police-/45808806)
 
 
 ### Camera man shot by police | May 30th
@@ -4930,6 +4943,17 @@ id: wa-seattle-14
 * [Firsthand account from the medic](https://www.reddit.com/r/Seattle/comments/gywxhz/folks_i_need_your_help/)
 * https://imgur.com/a/fWkU0SA
 * https://kuow.org/stories/this-26-year-old-died-three-times-after-police-hit-her-with-a-blast-ball
+
+
+### Police pepper spray protesters standing in their way | June 11th
+
+Video shows several police officers attempting to make their way past the fence perimeter of the Capitol Hill Occupied Protest area, in order to gain access to the vacated precinct. Several protesters block their path on the sidewalk. The cops pepper spray at least one individual at close range. The person filming says "they're tear-gassing people!" but the video caption says "accidentally said 'tear gas' instead of 'pepper spray' in the video." The crowd shouts loudly until the officers retreat.
+
+tags: pepper-spray
+
+**Links**
+
+* [Video showing protester getting pepper sprayed (1:16)](https://www.facebook.com/natalie.bell.7334504/videos/949526905485027/)
 
 
 ### Additional Seattle OPA Case Numbers
