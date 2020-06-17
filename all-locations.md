@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-16T21:59:04.768093+00:00
+UPDATED AT: 2020-06-17T01:58:03.786881+00:00
 
 
 # Alabama
@@ -2398,6 +2398,8 @@ id: mn-minneapolis-4
 
 While trying to capture footage of the police shooting, Tom Aviles of the WCCO gets warned and then arrested by an officer.
 
+Additional footage shows police fired on the press crew as well.
+
 tags: journalist, arrest
 
 id: mn-minneapolis-5
@@ -2405,6 +2407,7 @@ id: mn-minneapolis-5
 **Links**
 
 * https://www.youtube.com/watch?v=wmpic2NU1RM&feature=youtu.be
+* https://twitter.com/greg_doucette/status/1266958068807544839
 
 
 ### CNN crew shot at with rubber bullets and tear gas while live on air | May 30th
@@ -2483,6 +2486,7 @@ id: mn-minneapolis-6
 **Links**
 
 * https://mobile.twitter.com/mollyhf/status/1266911382613692422
+* https://twitter.com/mollyhf/status/1269003675063799810
 * https://www.latimes.com/world-nation/story/2020-05-30/la-reporter-tear-gas-police
 
 
@@ -2549,6 +2553,8 @@ id: mn-minneapolis-10
 
 The picture shows the reporter's eye has been damaged, and potentially blinded.
 
+Journalist updated that she was permanently blinded in her left eye and her doctor has stated she cannot work for at least 6 weeks.
+
 tags: journalist, rubber-bullet, shoot
 
 id: mn-minneapolis-11
@@ -2557,6 +2563,7 @@ id: mn-minneapolis-11
 
 * https://mobile.twitter.com/KillerMartinis/status/1266618525600399361?s=19
 * https://twitter.com/chadloder/status/1267059540190625792
+* https://twitter.com/KillerMartinis/status/1266786161143537669
 
 
 ### Police shoot Reuters reporters with rubber bullets | May 31st
@@ -2613,7 +2620,7 @@ id: mn-minneapolis-18
 
 ### Journalists pepper sprayed and hit with flashbangs and batons | May 31st
 
-South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol"
+South Minneapolis outside 5th Precinct. Group of journalists "were hit with pepper spray, concussion grenades, batons, and tear gas by Minnesota State Patrol." NBC journalist states he needed 4 stitches.
 
 tags: journalist, pepper-spray, batons, beat, tear-gas, shoot, projectiles, spray
 
@@ -2622,6 +2629,7 @@ id: mn-minneapolis-19
 **Links**
 
 * https://twitter.com/edouphoto/status/1267958349477249024
+* https://twitter.com/edouphoto/status/1267981849537609728
 * https://www.facebook.com/356074941105769/posts/3020200918026478/
 
 
@@ -3240,6 +3248,7 @@ id: ny-newyorkcity-17
 
 * https://wapo.st/2Mx7WY6
 * https://www.washingtonpost.com/national/protests-police-brutality-video/2020/06/05/a9e66568-a768-11ea-b473-04905b1af82b_story.html
+* https://twitter.com/greg_doucette/status/1268649158761689089
 
 
 ### NYPD denies 6th amendment rights to protestors | May 31st
@@ -3293,6 +3302,26 @@ id: ny-newyorkcity-18
 **Links**
 
 * https://mobile.twitter.com/jangelooff/status/1267308341660979200
+
+
+### Alleged looter pulled from car and beaten | June 1st
+
+Footage shows a cluster of NYPD officers striking a vehicle with batons and kicking it, before pulling the driver onto the street and arresting them. Footage shows police smashed several of the car's windows.
+
+Officers allege the driver and passenger were looters and had tried to run over police. 
+
+Officers additionally allege that the passenger attempted to jump to the driver's seat, run over an NYPD officer, and drive away. However, footage shows heavy traffic on all sides of the car and does not capture the alleged attempt by the passenger.
+
+The driver was charged with attempted murder, assault with intent to cause injury, criminal possession of stolen property, and obstructing government administration. The DA's office later downgraded the attempted murder charge to second-degree assault.
+
+tags: beat, property-destruction, arrest, baton, kick
+
+id: ny-newyorkcity-36
+
+**Links**
+
+* https://abc7ny.com/nyc-curfew-aftermath-looting-riots/6229025/
+* https://twitter.com/greg_doucette/status/1270020411443613696
 
 
 ### Police officer body slams protestor | June 2nd
@@ -3398,6 +3427,69 @@ id: ny-newyorkcity-24
 * https://twitter.com/sa0un/status/1268933117827571714
 
 
+### Protestors detained more than 24 hours by police; upheld by NY Judge | June 4th
+
+The Legal Aid Society, a law firm for low-income families and individuals, filed an emergency lawsuit after learning protestors had been detained for over 24 hours without arraignment, in violation of New York state law.
+
+A New York state judge rejected the appeal, allowing the NYPD to continue holding protestors, citing the virtual arraignments made necessary by the COVID-19 pandemic as a cause of slower processing. However, the Legal Aid Society states that conditions are not suitable for social distancing in the holding cells, thus risking an increased spread of COVID-19.
+
+The NY Daily News cited that as of Thursday, June 4th, 202 people had been detained for over 24 hours.
+
+tags: arrest, inhumane-treatment, abuse-of-power
+
+id: ny-newyorkcity-37
+
+**Links**
+
+* https://www.nydailynews.com/new-york/manhattan/ny-manhattan-judge-denies-writ-protestors-custody-20200604-cj67y2xoxjgrhk4es7vbyxkhcm-story.html
+* https://1010wins.radio.com/articles/judge-rules-nypd-can-keep-protest-detainees-over-24-hours
+* https://twitter.com/LegalAidNYC/status/1268680588753547265
+
+
+### Food delivery driver arrested | June 4th
+
+NYPD arrested a DoorDash/Caviar delivery person for violating the curfew, although food delivery workers are exempt from curfew restrictions.
+
+The worker is wearing a branded backpack designed for food delivery and is riding his bike. He offers to show officers his orders on his phone, but they do not allow him.
+
+A news report states the worker was leaving a delivery as a protest passed by.
+
+tags: arrest, abuse-of-power
+
+id: ny-newyorkcity-38
+
+**Links**
+
+* https://abc7ny.com/food-delivery-essential-workers-arrest-protesters-defy-curfew/6232911/
+* https://twitter.com/greg_doucette/status/1268767102623715329
+
+
+### Police break up neighborhood BBQ, beating and arresting partygoers | June 4th
+
+Police shut down a birthday party on private property. The party was occurring after curfew, but witnesses say police first claimed they wree responding to a noise complaint. Then allegedly stated the partygoers needed to go inside due to the curfew, the curfew restrictions did not apply to private property, which includes the building's stoop and yard. A partygoer states that he and others begain to clean up, but police then began forcing people back into the building before they had time to comply.
+
+Police continued shoving protestors already inside the building. Footage shows verbal altercation between police and partygoers before an officer forced his way past a door, shoving several partygoers. Police then began arresting partygoers and beating them with batons.
+
+Footage shows partygoers were beaten with batons and ziptied. 
+
+Three partygoers state officers used racial slurs while arresting them.
+
+Images show swollen hands from zip ties as well as bruises from batons. One partygoer states he suffered a severe sprain in his arm, and doctors could not determine from an X-Ray if it had been broken or not.
+
+tags: arrest, racial-profiling, inhumane-treatment, baton, beat
+
+id: ny-newyorkcity-39
+
+**Links**
+
+* https://www.buzzfeednews.com/article/amberjamieson/nypd-bbq-video-brooklyn-arrests
+* https://gothamist.com/news/videos-nypd-crown-heights-bbq-arrest-curfew
+* https://twitter.com/_40lucks/status/1268772390164746240
+* https://twitter.com/_40lucks/status/1268771676688441345
+* https://twitter.com/greg_doucette/status/1269787866797936640
+* https://twitter.com/greg_doucette/status/1269788200630996993
+
+
 ### NYPD pushes crowd into tight space and attacks several with batons | June 5th
 
 At roughly 8:00 PM, on E. 136th St. by Brook Ave, cops pushed protestors into an increasingly tight space and use pepper spray and batons.
@@ -3422,6 +3514,7 @@ id: ny-newyorkcity-26
 **Links**
 
 * https://www.reddit.com/r/Brooklyn/comments/gy40fz/nypd_aggressively_arrest_cyclist_on_blm_group_ride/?utm_source=share&utm_medium=web2x
+* https://nyc.streetsblog.org/2020/06/08/see-it-police-beat-up-cyclist-during-black-lives-matter-protest/
 
 
 ## Rochester
@@ -3892,6 +3985,18 @@ id: oh-columbus-15
 *  https://twitter.com/julialwashere/status/1266730657436315649
 
 
+### Police pepper spray protestors; rip mask off protestor | May 30th
+
+Police pepper spray protestors walking away from them. One protestor shows the police his middle finger. An officer responds by shoving the man and ripping his mask off.
+
+tags: pepper-spray, spray, shove
+
+id: oh-columbus-16
+
+**Links**
+
+* https://twitter.com/bwk1992/status/1266833971570237442
+
 ### Police pepper-spray a medic | May 31st
 
 Police point blank pepper spray a medic who was tending to a protestor
@@ -4000,6 +4105,20 @@ id: oh-columbus-12
 
 * https://www.reddit.com/r/PublicFreakout/comments/gusqeg/video_from_inside_the_concrete_courtyard_peaceful/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf
 * https://i.imgur.com/mECPaWe.jpg
+
+
+### Man pepper-sprayed at close range | (Believed to be) May 31st
+
+Image shows a police officer pepper-spraying a man with his hands up at a short distance. Exact date is unknown, but earliest appearance found on Twitter was May 31st.
+
+tags: pepper-spray, spray
+
+id: oh-columbus-17
+
+**Links**
+
+* https://twitter.com/snowmanonfire/status/1267122517614964743
+* https://twitter.com/greg_doucette/status/1269118992540749831
 
 
 ### Police push and pepper spray reporters from The Lantern newspaper | June 1st
