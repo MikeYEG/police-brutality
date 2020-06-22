@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-21T21:57:49.942778+00:00
+UPDATED AT: 2020-06-22T13:59:27.978375+00:00
 
 
 # Alabama
@@ -2683,6 +2683,35 @@ id: mn-minneapolis-23
 * https://twitter.com/MikeGeorgeCBS/status/1267087091122528256
 * https://twitter.com/MikeGeorgeCBS/status/1266919447970942986
 * https://twitter.com/MikeGeorgeCBS/status/1266916104951214080
+
+
+
+### Medics talk about police destroying tent and slashing tires. | May 30th
+
+Medics set up a tent, police shot rubber bullets and gas at their facility in a Kmart parking lot at Nicollet and Lake St. Medics state they announced clearly their tent had only medics and wounded, but police and National Guard opened fire. After the medics left, officers destroyed their tent and prevented medics from returning. Medics also state police slashed tires.
+
+Medics state they were able to move everyone who needed help.
+
+tags: medic, property-destruction
+
+id: mn-minneapolis-25
+
+**Links**
+
+* https://www.youtube.com/watch?v=gfb_zJiMTFU
+
+### Law enforcement officers slash car tires. | May 30th
+
+Footage shows law enforcement officers at a distance appearing to slash car tires in a parking lot. Additional tweet shows other vehicles with slashed tires at the same Kmart at Nicollet and Lake St. 
+
+tags: abuse-of-power, property-destruction.
+
+id: mn-minneapolis-29
+
+**Links**
+
+* https://twitter.com/val_ebertz/status/1266975058230235137
+* https://twitter.com/Jeff_Wagner4/status/1266933139303268353
 
 
 ### Police shoot at a woman on her porch | May 31st
