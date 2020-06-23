@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-22T13:59:27.978375+00:00
+UPDATED AT: 2020-06-23T01:57:57.426570+00:00
 
 
 # Alabama
@@ -20,6 +20,24 @@ id: al-birmingham-1
 
 * https://www.al.com/news/birmingham/2020/06/two-reporters-taken-into-custody-after-covering-birmingham-protest.html
 
+### Police arrest journalist Michael Harriot | June 4
+
+Journalist Michael Harriot was covering a protest with a group of journalists; he was the only black journalist present. He left his press pass in the car for fear of being targeted by protesters, but he says he had a digital press pass on his phone.
+
+Around six officers arrested Harriot. Per AL.com, Harriot "was asked if he could show credentials but said he did not have any with him;" per Harriot, "officers said they couldn’t let me have my phone to show my digital credentials;" he "told them they could just call the mayor’s office to verify my media credentials; they did not attempt to." Per AL.com, "the department’s public information officer... said he \[asked Harriot\] if there was anyway \[_sic_\] to make contact with his company to confirm he was media and Harriot said no."
+
+According to Harriot, after being arrested, he and the other arrestees were taken to a nearby area; while he waited there, an officer tightened his zip ties so tight that he lost feeling in his hands and they swelled up. Officers had trouble getting the zip ties off; they had to use a pocket knife in addition to the usual tool. Harriot was also interviewed by two agents claiming to be from the FBI.
+
+tags: arrest, journalist, racial-profiling
+
+id: al-birmingham-2
+
+**Links**
+
+* https://www.theroot.com/a-letter-not-from-a-birmingham-jail-1843926346
+* https://www.al.com/news/birmingham/2020/06/journalist-michael-harriot-arrested-after-birmingham-protest.html
+* [Video](https://www.youtube.com/watch?v=H308RU7jtM4)
+* [Poynter institute guidance for journalists](https://www.poynter.org/reporting-editing/2020/23-guidelines-for-journalists-to-safely-cover-protests-this-weekend/)
 
 ## Hoover
 
@@ -401,7 +419,7 @@ LAPD using Metro buses to transport arrested protestors after transit service sh
 
 tags: inhumane-treatment
 
-id: ca-losangeles-24
+id: ca-losangeles-23
 
 **Links**
 
@@ -621,12 +639,42 @@ In Lakewood, police fire projectiles at protesters and discharge teargas.
 
 tags: shoot, projectile, tear-gas
 
-id: ca-los-angeles-20
+id: ca-losangeles-20
 
 **Links**
 * https://abc7.com/lakewood-protest-tear-gas-black-lives-matter-fired-during/6235358/
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/ftb8mvt?utm_source=share&utm_medium=web2x
 * https://www.reddit.com/r/longbeach/comments/gyma59/lakewoods_peaceful_protest_ends_in_cops_shooting/?utm_source=share&utm_medium=web2x
+
+
+### Police tear gas peaceful protest | June 21st
+
+Footage shows scattered protestors on pedestrian walkway with police firing tear gas around them. Additional footage shows protestors helping one another recover from the damage.
+
+A journalist states they were tear-gassed while holding up their press badge in plain view.
+
+tags: tear-gas, journalist
+
+id: ca-losangeles-21
+
+**Links**
+* https://twitter.com/josie_huang/status/1274859389921267713
+* https://twitter.com/josie_huang/status/1274860188898430976
+
+
+### Police fire less-lethal rounds at protestors | June 21st
+
+Footage shows police and protestors separated by a barricade. Protestors shout at police to put their guns down. Without verbal warning, police fire on protestors.
+
+In footage from a journalist, a protestor wearing a U.S. military jacket shows off wounds to the head and abdomen from less-lethal rounds shot by police.
+
+tags: shoot, projectiles
+
+id: ca-losangeles-22
+
+**Links**
+* https://www.reddit.com/r/PublicFreakout/comments/hdrvxc/police_in_la_open_fire_on_group_protesting_the/
+* https://twitter.com/josie_huang/status/1274863117004988416
 
 
 ## Oakland
@@ -1091,6 +1139,20 @@ id: co-denver-14
 * https://denver.cbslocal.com/2020/06/08/denver-protests-george-floyd-jax-feldmann-denver-police-foam-bullet/
 
 
+### Police spray two people who are backing away | (believed to be) May 30th
+
+A crowd of police officers walk towards two people on the side walk. The two people move away slowly. One of them turns, pointing a phone at the officers; an officer sprays them (probably with mace).
+
+tags: mace, spray
+
+id: co-denver-15
+
+**Links**
+
+* [Video and description from a Denver Post reporter](https://twitter.com/BySajaHindi/status/1266935262774517760)
+* [Photo, allegedly of the same two people later on](https://twitter.com/ry3313/status/1267942996386828288)
+
+
 ### Police fire pepper balls at car with pregnant woman | May 31st
 
 The driver steps out of a black sedan that officers have apparently hit with a pepper ball. He tells the officers repeatedly that there is a pregnant woman inside. Officers tell him to leave; he says "fuck you, I ain't going nowhere" and then "Fuck you! Shoot it again!" Officers shoot the car several more times.
@@ -1132,6 +1194,50 @@ id: co-denver-10
 * https://www.tiktok.com/@yazzdazzz/video/6832896487207243014
 
 
+### Officer threatens woman who asks what will happen at curfew | May 31st
+
+A woman films an interaction with an officer. She approaches the line and asks, "Can I ask you what's going to happen at 8, sir?" The officer replies: "What's going to happen is we're going to start beating the fuck out of you."
+
+tags: threaten, incitement
+
+id: co-denver-16
+
+**Links**
+
+* https://www.tiktok.com/@yazzdazzz/video/6832908683035413766
+
+
+### Footage shows effect of less-lethal round | May 31st
+
+Footage shows woman asking protestor if he's okay. He says, "Fuck yeah."
+
+His sweatshirt is covered in blood and he has suffered a gash of 1-2 inches across his chin, with a chunk of his chin hanging off.
+
+tags: shoot, projectile
+
+id: co-denver-19
+
+**Links**
+
+* https://www.tiktok.com/@yazzdazzz/video/6832895812771646725
+
+
+### Officer incites violence on social media | June 1st
+
+In a since-deleted post on Instagram featuring 3 DPD officers in riot gear, the poster captioned the image: "Let's start a riot."
+
+The officer has since been fired from the Denver Police Department.
+
+tags: incitement
+
+id: co-denver-17
+
+**Links**
+
+* https://twitter.com/DenverPolice/status/1267571824054775808
+* https://twitter.com/DenverPolice/status/1267933192805216256
+
+
 ### Police shoot protester from behind with tear gas canister | June 2nd
 
 An activist and member of the Use of Force committee for Denver Police says officers rolled a tear gas canister toward her and shot her in the back with pepper balls as she retreated.
@@ -1160,18 +1266,21 @@ id: co-denver-12
 * https://www.reddit.com/r/Denver/comments/gwdg85/denver_swat_unit_tackles_group_of_peaceful/
 
 
-### Police spray two people who are backing away | (believed to be) May 30th
+### Protestor struck in head at short range with explosive projectile | (Believed to be) June 6th
 
-A crowd of police officers walk towards two people on the side walk. The two people move away slowly. One of them turns, pointing a phone at the officers; an officer sprays them (probably with mace).
+Footage shows protestors walking away from police. An officer fires an explosive projectile at the ground, which then ricochets and strikes protestor in head. Protestor crumples to the ground. Title on Reddit states that the protestor suffered permanent hearing loss, but this has not been verified.
 
-tags: mace, spray
+It should be noted that these rounds are intended to be shot at the ground as the officer did. However, the proximity of the shot to protestors severely increased the risk of injury, as seen here.
 
-id: co-denver-15
+Footage was first posted on reddit.com/r/protest on June 6th.
+
+tags: shoot, projectile, explosive
+
+id: co-denver-18
 
 **Links**
 
-* [Video and description from a Denver Post reporter](https://twitter.com/BySajaHindi/status/1266935262774517760)
-* [Photo, allegedly of the same two people later on](https://twitter.com/ry3313/status/1267942996386828288)
+* https://www.reddit.com/r/protest/comments/gx7voh/denver_police_knocking_a_kid_out_and_losing/
 
 
 
@@ -4608,6 +4717,25 @@ id: oh-columbus-18
 * [Reposted on military news site](https://americanmilitarynews.com/2020/06/bronze-star-veteran-ryan-mcmullen-served-in-afghanistan-but-didnt-get-hurt-until-protesting-in-columbus/amp/)
 
 
+### Man maced by police | June 21st
+
+Footage shows the aftermath of police macing a man with prosthetic legs. Protestors have gathered to give medical aid to the man. His prosthetic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs. 
+
+Additional footage appears to show the prosthetics disconnect when the man was shoved by police. That same footage shows officers spraying other unrelated protestors.
+
+Body cam footage later surfaced showing the man tossing a scooter in the direction of officers. A reporter states no officers were harmed. Body cam footage provided does not show the interactions between the toss and the protestor-provided footage.
+
+tags: mace, pepper-spray, spray, shove, person-with-disability
+
+id: oh-columbus-19
+
+**Links**
+
+* https://www.reddit.com/r/Columbus/comments/hdf4hu/cpd_just_hit_and_maced_a_double_amputee_bravo_you/
+* [Man seen in background around 0:14](https://www.reddit.com/r/Columbus/comments/hddsqd/gotta_love_the_cop_dual_wielding_pepper_spray_cans/)
+* [Body cam footage](https://twitter.com/jessistarkey/status/1274869173206888448)
+
+
 ## Dayton
 
 ### Police fire multiple cans of tear gas at protestors | May 30th
@@ -5211,6 +5339,22 @@ id: tx-austin-5
 * https://twitter.com/ironfront7/status/1267133400156196870
 
 
+### Pregnant woman shot with bean bags by police | May 30th
+
+A pregnant woman in Austin states she was sitting during a May 30th protest. As police began to pepper-spray the crowd, she stood to run. Police then shot her multiple times in the abdomen, back and head. The Austin Police Chief has stated the incident is under review.
+
+Fortunately, the woman did not suffer a miscarriage.
+
+tags: pregnant, bean-bags, shoot
+
+id: tx-austin-8
+
+**Links**
+
+* https://www.statesman.com/news/20200612/pregnant-woman-shot-with-beanbag-round-by-austin-police-wants-them-held-accountable
+* https://www.kvue.com/article/news/local/austin-texas-protest-chief-brian-manley-speaks/269-904cf6f3-e619-44ed-ab31-0582508e9c04
+
+
 ### Police critically injure 20 year old black protester during protests against police violence | May 31st
 
 A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage.
@@ -5327,6 +5471,8 @@ id: tx-dallas-4
 
 The first-person video shows an individual running away from what seem to be loud explosions.
 
+Additional footage shows a protest in the same vicinity. Police sound a siren and protestors begin to back away. Police then begin releasing tear gas.
+
 tags: flashbangs, tear-gas
 
 id: tx-dallas-2
@@ -5334,6 +5480,7 @@ id: tx-dallas-2
 **Links**
 
 * https://twitter.com/xtranai/status/1266898175568338945
+* https://twitter.com/calvinwatkins
 
 
 ### Police fire rubber bullet on peaceful protestor | June 1st
@@ -5414,13 +5561,26 @@ A man was filming police walking down the street and making comments like "that 
 
 tags: shoot, rubber-bullets
 
-id: tx-sanantonio-2
+id: tx-sanantonio-1
 
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/gu3s6j/police_shoots_protestor_for_no_reason/
 * [Mirror](https://tuckbot.tv/#/watch/gu3s6j)
 * https://twitter.com/chadloder/status/1267124991809609728
+
+
+### Police fire on protestors without warning | June 2nd
+
+Police are protestors are gathered several feet apart. Between the two lines, a protestor is seen telling other protestors to put their hands up. Police then fire as protestors scatter.
+
+tags: shoot, projectile
+
+id: tx-sanantonio-2
+
+**Links**
+
+* https://twitter.com/SanAntonioProbz/status/1268027491987468288
 
 
 
@@ -5653,6 +5813,21 @@ id: va-richmond-5
 * https://twitter.com/ZyahnaB/status/1272716305813118976
 * https://twitter.com/ZyahnaB/status/1272716632541089792
 * https://twitter.com/GoadGatsby/status/1272701413169287175
+
+
+### Police pepper-spray journalist | June 21st
+
+First-person footage from a journalist shows him shouting, "I'm press, I'm press," while police pepper-spray him and others indiscriminately. 
+
+He states that shortly after this footage, he bumped into an officer and was shoved to the ground.
+
+tags: pepper-spray, spray, shove, journalist
+
+id: va-richmond-7
+
+**Links**
+
+* https://twitter.com/aeringle/status/1274898298923606017
 
 
 
