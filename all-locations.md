@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-23T05:57:49.984097+00:00
+UPDATED AT: 2020-06-23T18:00:26.288984+00:00
 
 
 # Alabama
@@ -706,6 +706,20 @@ id: ca-oakland-2
 * https://twitter.com/SarahBelleLin/status/1266980899301683200
 
 
+### Water bottle tossed at police; police retaliate against crowd | June 2nd
+
+Footage shows a water bottle lobbed towards police. Police then retaliate against the entire crowd, firing tear gas indiscriminately. 
+
+tags: tear-gas
+
+id: ca-oakland-3
+
+**Links**
+
+* https://twitter.com/byjacobward/status/1267695808784199680
+* https://twitter.com/greg_doucette/status/1270490060287344642
+
+
 ## Riverside
 
 ### Law enforcement break a car window for no apparent reason | June 2nd
@@ -792,6 +806,19 @@ id: ca-sandiego-3
 
 * https://twitter.com/chadloder/status/1267290221562871809
 * https://twitter.com/MarajYikes/status/1267030131563827200
+
+
+### Police fire on dancing protestors | May 31st
+
+Footage shows protestors playing music and dancing. Without warning, shots can be heard and tear gas is seen. Protestors then flee.
+
+tags: tear-gas, shoot, projectiles
+
+id: ca-sandiego-4
+
+**Links**
+
+* https://twitter.com/mariahalize3/status/1267225330093191168
 
 
 ### Police abduct woman in unmarked van | June 4th
@@ -896,6 +923,37 @@ id: ca-sanjose-5
 **Links**
 
 * https://www.youtube.com/watch?v=89mUHzu3480
+
+
+### Police strike man with motorcylce | May 31st
+
+A man is seen run across a street, chased by several officers. An officer on a motorcycle strikes him and he is arrested.
+
+Officers allege he was seen attempting to break into a bank after curfew.
+
+tags: vehicle, arrest
+
+id: ca-sanjose-6
+
+**Links**
+
+* https://www.mercurynews.com/2020/06/03/video-of-police-motorcycle-hitting-man-brings-more-scrutiny-to-sjpd/
+
+
+### Police shoot small group of unarmed protestors | June 3rd
+
+Police give orders to disperse and subsequently to lay on the ground. Protestors attempt to flee and first-person footage states a protestor was tripped and shot at short range.
+
+Additional footage shows numerous officers corralling protestors into a small area before firing
+
+tags: shoot
+
+id: ca-sanjose-7
+
+**Links**
+
+* https://twitter.com/ex_Tesla/status/1268341102211297280
+* https://twitter.com/greg_doucette/status/1269985578474524673
 
 
 ## San Luis Obispo
@@ -4933,6 +4991,19 @@ id: or-portland-5
 * https://twitter.com/MrAndyNgo/status/1268224547272003585
 
 
+### Police shoot peaceful protestors on sidewalk | June 5th
+
+Footage shows a police van drive up on a small group of protestors on the sidewalk, walking away from the officers. Police jump off the van and immediately begin firing at protestors.
+
+tags: shoot, projectiles
+
+id: or-portland-9
+
+**Links**
+
+* https://twitter.com/bigpieceoftoast/status/1269393272570437632
+
+
 ### Officer attacks photographer with baton and pepper sprays him | June 6th
 
 A police officer is seen advancing on a photographer, hitting him with his baton and pepper spraying him.
@@ -5146,6 +5217,28 @@ id: pa-philadelphia-8
 **Links**
 
 *  https://twitter.com/tippedminimum/status/1268001268406136832
+
+
+### Police selectively enforce curfew and dispersal orders | June 1st
+
+During protests, groups of men armed with guns, bats, and other blunt instruments roved around the Fishtown neighborhood of Philadelphia. They continued patrolling after curfew. Footage shows Philadelphia police warning militia to leave so they could enforce arrests of BLM protestors. In addition, images show police chatting and taking photos with the groups. One video taken by a gunman states that the police want to take pictures with them.
+
+Footage shows members of the groups threatening and shouting racial and homophobic slurs at protestors without police intervention. One journalist posted a picture of himself with a head wound, alleging that one of these groups beat him for filming them.
+
+tags: abuse-of-power
+
+id: pa-philadelphia-10
+
+**Links**
+
+* [Video in comments](https://www.facebook.com/groups/fishtownisawesome/permalink/2696046047166116/)
+* https://twitter.com/StreetsDept/status/1269031817253982215
+* https://twitter.com/DAZZLESTORM/status/1267621074457505792
+* https://twitter.com/DAZZLESTORM/status/1267621072352022535
+* https://twitter.com/jwehrens/status/1267621976379740170
+* https://twitter.com/jpegjoshua/status/1267634390496149506
+* https://twitter.com/jpegjoshua/status/1267636972404736000
+* https://twitter.com/jpegjoshua/status/1267599264257015816
 
 
 ### Police kneel on man who says "I can't breathe", officer yells profanities back | believed to be June 3rd
@@ -5732,6 +5825,23 @@ id: va-fairfax-1
 *  https://www.washingtonpost.com/local/public-safety/fairfax-county-police-officer-charged-after-using-stun-gun-on-black-man-without-provocation-police-say/2020/06/07/4e7b4a90-a858-11ea-b619-3f9133bbb482_story.html
 
 
+## Fredericksburg
+
+### Police fire tear gas at peaceful protest | May 31st
+
+Footage shows deployment of tear gas by police on peaceful protest on the street. In one image, protestors are lying on the ground as tear gas canisters fall around them.
+
+tags: tear-gas
+
+id: va-fredericksburg-2
+
+**Links**
+
+* https://twitter.com/Dannyklein69/status/1267261733376229379
+* https://twitter.com/Dannyklein69/status/1267261914138267649
+* https://twitter.com/Dannyklein69/status/1267261377435099142
+* https://twitter.com/greg_doucette/status/1268398488783642625
+
 ## Manassas
 
 ### Officers pepper-spray Virginia state delegate peacefully protesting | May 30
@@ -5792,7 +5902,7 @@ id: va-richmond-2
 
 ### Officer spits on detained protestor | June 1st
 
-A police officer spits on a detained protestor who is restrained and sitting on the ground. The officer appears to repeat the action after other protestors mention that he's on camera.
+A police officer spits on a detained protestor who is restrained and sitting on the ground. The officer appears to repeat the action after other protestors mention that he's on camera. Extended footage shows the officer continuing to spit on the protestor.
 
 tags: arrest, inhumane-treatment
 
@@ -5801,6 +5911,8 @@ id: va-richmond-3
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/guzgf9/police_officer_in_richmond_va_spits_on_and_near_a/
+* [Extended Footage](https://twitter.com/greg_doucette/status/1269504306836799489)
+* [Youtube mirror of extended footage](https://www.youtube.com/watch?v=6hLCNhZC7Uo)
 
 
 ### Law enforcement officer fires tear gas at vehicle only to discover it's a police vehicle | June 4th
@@ -5852,6 +5964,8 @@ First-person footage from a journalist shows him shouting, "I'm press, I'm press
 
 He states that shortly after this footage, he bumped into an officer and was shoved to the ground.
 
+Reddit link shows scuffle was instigated after a protestor beat a lacross stick against his own homemade shield like a drum and an officer went to stop him.
+
 tags: pepper-spray, spray, shove, journalist
 
 id: va-richmond-7
@@ -5859,7 +5973,7 @@ id: va-richmond-7
 **Links**
 
 * https://twitter.com/aeringle/status/1274898298923606017
-
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hdycck/more_video_from_richmond_last_night_police_spray/
 
 
 
@@ -5992,15 +6106,16 @@ id: wa-seattle-9
 * Seattle OPD Case 2020OPA-0334
 
 
-### Police strike active newscrew with flashbang | June 1st
+### Police strike active news crew with tear gas | June 1st
 
-Police strike a journalist, Jo-Ling Kent, live on air with a flashbang.
+Police strike a journalist, Jo-Ling Kent, live on air with a tear gas canister.
 
-tags: flashbang, journalist
+tags: tear-gas, tear-gas-canister, journalist
 
 id: wa-seattle-10
 
 * [MSNBC video clip](https://twitter.com/Acyn/status/1267673936659021830?s=20)
+* https://twitter.com/greg_doucette/status/1267694239028334592
 * Related to OPD Case 2020OPA-0333 "A flashbang striking a reporter"
 
 
@@ -6017,6 +6132,28 @@ id: wa-seattle-5
 * https://twitter.com/catsayshello/status/1268073344814866432
 * https://www.instagram.com/tv/CA63KMnlVvu/?igshid=hfp3uoaqe23p
 * https://old.reddit.com/r/Seattle/comments/gv0ru3/this_is_the_moment_it_all_happened/
+
+
+### Protestor targeted days after protest | June 5th
+
+Footage and reports show approximately 30 police officers in 6-7 squad cars arrive to arrest a woman in a car with her 9 year old child.
+
+Officers arrived on the scene brandishing mace, alleging that the woman assaulted two police officers several days prior. She was dragged from her car and the car was towed from her home.
+
+Officers cited a Star Wars meme depicting a Landspeeder with a caption saying, "This machine kills facists," as intent to kill officers.
+
+The woman states she tried to help a friend who was being shot with rubber bullets. 
+
+tags: arrest, abuse-of-power
+
+id: wa-seattle-16
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1269380431478173699
+* https://twitter.com/daeshikjr/status/1269328705752494081
+* https://twitter.com/Maoquai/status/1269116223658160129
+* https://twitter.com/greg_doucette/status/1269393375146446850
 
 
 ### Officer chokes and places knee on neck of woman | June 6th
@@ -6079,11 +6216,55 @@ id: wa-seattle-14
 * https://kuow.org/stories/this-26-year-old-died-three-times-after-police-hit-her-with-a-blast-ball
 
 
+### During arrests, man yells at police; police retaliate against crowd | June 7th
+
+Police surrounded a barricade in the street and began arresting protestors. One man is seen working his way through the crowd to the front and yells at officers. There appears to be some pushing. 
+
+Police then retaliate against the crowd, firing tear gas and spraying pepper spray indiscriminately. Police continue to do so well after protestors have moved to the sides.
+
+tags: arrest, tear-gas, pepper-spray
+
+id: wa-seattle-17
+
+**Links**
+
+* https://twitter.com/menilivne/status/1269831790799159302
+
+
+### Police shoot peaceful protestor | June 7th
+
+A protestor is seen off to the side of the protest, speaking with another protestor and holding a bucket. The camera pans away and a shot is heard. The camera pans back and shows the man fall to the ground, clutching his back.
+
+tags: shoot, rubber-bullets
+
+id: wa-seattle-18
+
+**Links**
+
+* https://twitter.com/RisingAnons/status/1269904786108887045
+
+
+### Police arrest homeless man | June 7th
+
+While deploying flashbangs and tear gas against protestors, the police line passes a homeless man sheltered on the ground. Police lift and move him as the man does not appear capable of moving himself. Multiple officers aid in arresting him and appear to strike him before carrying him off. The filmer states, "They're beating the shit out of this homeless man."
+
+tags: homeless, arrest, strike, beat
+
+id: wa-seattle-19
+
+**Links**
+
+* https://twitter.com/slydesilva/status/1270120873345728512
+* https://twitter.com/slydesilva/status/1270120960440459264
+
+
 ### Police pepper spray protesters standing in their way | June 11th
 
 Video shows several police officers attempting to make their way past the fence perimeter of the Capitol Hill Occupied Protest area, in order to gain access to the vacated precinct. Several protesters block their path on the sidewalk. The cops pepper spray at least one individual at close range. The person filming says "they're tear-gassing people!" but the video caption says "accidentally said 'tear gas' instead of 'pepper spray' in the video." The crowd shouts loudly until the officers retreat.
 
 tags: pepper-spray
+
+id: wa-seattle-16
 
 **Links**
 
@@ -6160,12 +6341,12 @@ id: dc-dc-2
 * https://twitter.com/ASB_Breaking/status/1267596043870486528
 * https://twitter.com/i/status/1267597024096137217
 * https://twitter.com/i/status/1267606685767667712
-* Alternate footage: https://v.redd.it/qf9vf0hdrd251
-* Mirror of alternate footage: https://peertube.live/videos/watch/1713b881-a750-45a0-9c6c-f066ebcac484
-* CW: Blood: https://www.reddit.com/r/2020PoliceBrutality/comments/gvqjjv/nsfl_clearer_footage_of_guy_hit_by_shield_blood/
+* [Alternate footage](https://v.redd.it/qf9vf0hdrd251)
+* [Mirror of alternate footage](https://peertube.live/videos/watch/1713b881-a750-45a0-9c6c-f066ebcac484)
+* [CW: Blood](https://www.reddit.com/r/2020PoliceBrutality/comments/gvqjjv/nsfl_clearer_footage_of_guy_hit_by_shield_blood/)
 
 
-### Protestors are quickly and violently pushed out of Lafayette Square | June 1
+### Protestors are quickly and violently pushed out of Lafayette Square | June 1st
 
 The protestors were given no warning to leave, resulting in forceful removal and injuries to protestors via tear gas and flashbangs.
 
@@ -6182,9 +6363,9 @@ id: dc-dc-3
 * https://twitter.com/nytimes/status/1267638330654625794
 
 
-### Officer fires tear gas cannister at protestor's head |
+### Officer fires tear gas canister at protestor's head | June 1st
 
-DCPD officer aims tear gas cannister at protestor's head, narrowly misses.
+DCPD officer aims tear gas canister at protestor's head, narrowly misses.
 
 tags: tear-gas-canister, projectiles
 id: dc-dc-4
@@ -6219,7 +6400,7 @@ id: dc-dc-6
 * https://dcist.com/story/20/06/02/dupont-dc-home-protest-rahul-dubey/
 
 
-### Police charge peaceful crowd, beat them with shields |
+### Police charge peaceful crowd, beat them with shields | June 1st
 
 Here, police are captured charging into a crowd of peaceful protestors and hitting them with their shields. One individual can be seen bleeding from the mouth after being struck, before being pushed to the ground.
 
@@ -6243,7 +6424,36 @@ id: dc-dc-8
 * https://twitter.com/i/status/1269859559859871744
 
 
-### Law enforcement officers fire rubber bullets into crowd, pepper-spray kneeling protestor and CNN crew | June 3
+### Protestor bashed with riot shield, shoved and shot by police | June 1st
+
+Footage from Anderson Cooper 360 uploaded to Twitter on June 1st shows a protestor struck by an officer with a riot shield. Blood is seen coming from the protestor's face.
+
+Footage then shows the protestor shoved to the ground and shot. 
+
+tags: shield, beat, shoot, shove
+
+id: dc-dc-15
+
+**Links**
+
+* https://twitter.com/WestofHereFox/status/1267615709791731713
+
+
+### Unmarked federal agents aid police | June 2nd
+
+Armed men are seen supporting police efforts. When asked to identify themselves, they stated only that they work for the Department of Justice or "the federal government." They had no identifying names or numbers.
+
+tags: hide-badges, abuse-of-power
+
+id: dc-dc-13
+
+**Links**
+
+* https://twitter.com/dfriedman33/status/1267936203522932738
+* https://twitter.com/dfriedman33/status/1267936685536481280
+
+
+### Law enforcement officers fire rubber bullets into crowd, pepper-spray kneeling protestor and CNN crew | June 3rd
 
 In the first of these videos, a crowd can be seen shaking a piece of temporary fencing. Either in response to this or to secure the fence, law enforcement officers fire rubber bullets into the crowd to clear them. In the second video and third videos, officers pepper-spray a kneeling protestor and a CNN camera crew. The second video ends with more rubber bullets being fired. The reason for this is unknown.
 
@@ -6255,9 +6465,10 @@ id: dc-dc-9
 * https://twitter.com/MarkIronsMedia/status/1268046417865715713
 * https://twitter.com/MarkIronsMedia/status/1268062053182443522
 * https://twitter.com/gifdsports/status/1268041853196275712
+* https://twitter.com/Joshrepp/status/1268204713939435521
 
 
-### Law enforcement officers throw stinger grenades at peaceful protestors | June 3
+### Law enforcement officers throw stinger grenades at peaceful protestors | June 3rd
 
 In this video, officer throw stinger grenades in a crowd chanting "black lives matter". Throughout, grenades continue to be used, one of which explodes directly in front of a peaceful protestor.
 
@@ -6268,6 +6479,36 @@ id: dc-dc-10
 
 * https://twitter.com/greg_doucette/status/1268297598856765441
 * https://twitter.com/greg_doucette/status/1268297598856765441
+
+
+### Unknown federal agents aid police | June 4th
+
+Footage shows a line of agents wearing riot gear. They do not have names, badges or body cams. They allegedly refused to tell protestors what agency sent them.
+
+Additional reports suggest they are members of the federal Bureau of Prisons trained specifically for prison riots.
+
+tags: hide-badges, abuse-of-power
+
+id: dc-dc-14
+
+**Links**
+
+* https://twitter.com/bdaviskc/status/1268401251978563585
+* https://www.nytimes.com/2020/06/04/us/politics/unidentified-police-protests.html
+* https://www.businessinsider.com/officers-special-trained-prison-riots-face-off-with-dc-protesters-2020-6
+
+
+### Police violently arrest protestor | June 22nd
+
+During a standoff around a statue of Andrew Jackson, footage shows multiple officers attempt to arrest a protestor. The man appears to be passively resisting (e.g. locking his arms). Police respond by beating him with batons and kneeling on him. At one point, the man states he cannot breathe. Police do not acknowledge this.
+
+tags: beat, batons, arrest, knee
+
+id: dc-dc-16
+
+**Links**
+
+* https://twitter.com/JoshuaPotash/status/1275249479554400256
 
 
 
