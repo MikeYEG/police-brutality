@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-24T18:00:57.472966+00:00
+UPDATED AT: 2020-06-24T21:59:47.037540+00:00
 
 
 # Alabama
@@ -4879,6 +4879,7 @@ id: ok-oklahomacity-1
 
 * https://twitter.com/BruceBrownJr/status/1266979654499479552
 
+
 ### Law enforcement uses tear-gas several times | May 30th
 
 Four different videos, in what is believed to be chronological order, show law enforcement using tear-gas on protestors that are standing. 
@@ -4893,6 +4894,19 @@ id: ok-oklahomacity-2
 * https://twitter.com/benfelder_okc/status/1266956993669017600
 * https://twitter.com/benfelder_okc/status/1266963119160594432
 * https://twitter.com/benfelder_okc/status/1266966743404236800
+
+
+### Police try to snatch sign, make violent arrests and cause scuffle | May 30th
+
+Footage shows police approaching a small march. They arrest one woman holding a banner without incident. An officer then begins to walk away with one end of the banner. Protestors try to pull it back, and a scuffle follows where police attempt to arrest one protestor and a second appears to approach to stop it. The second protestor and the officer exchange pushes, then another officer charges the protestor from behind and shoves him. Police then shove several more protestors and kneel on one to make an arrest.
+
+tags: shove, arrest, knee
+
+id: ok-oklahomacity-3
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1269790337075228679
 
 
 ## Tulsa
@@ -5027,6 +5041,33 @@ id: or-portland-6
 * https://twitter.com/DonovanFarley/status/1269701897377603584
 * https://www.wweek.com/news/city/2020/06/07/portland-reporter-pens-first-person-account-of-being-pepper-sprayed-while-filming-an-arrest/
 
+
+### Police pull departing protestor from bike to arrest them | June 7th
+
+Body cam footage from a police officer shows police approaching person on a bike, believed to be a protestor leaving the protest. The two officers pull the protestor from the bike to make an arrest, throwing the bike aside. An officer then tells passersby at a convenience store to go home.
+
+tags: arrest, bike, shove, property-destruction
+
+id: or-portland-11
+
+**Links**
+
+* https://twitter.com/akamikeb/status/1269537214192476161
+
+
+### Police pepper-spray journalist | June 7th
+
+First-person footage from a livestream around 2:30 AM on June 7th shows police passing by. A scuffle seems to happen over an umbrella. Then an officer walks over and maces the filmer, a journalist. The journalist then shouts: "He maced me."
+
+tags: mace, pepper-spray, spray, journalsit
+
+id: or-portland-12
+
+**Links**
+
+* https://twitter.com/TheRealCoryElia/status/1269518318949380098
+
+
 ### Officer forces press away from protest | June 8th
 
 A reporter with a press pass is told that his pass does not matter and press is not permitted at the scene. Later, a second officer states the same thing. After asking the second officer for his name, the officer lets the reporter film his badge number but does not give his name. After asking again, the officer threatens the journalist, saying: "Do you want to go to jail?" before grabbing the journalist and arresting them.
@@ -5041,6 +5082,25 @@ id: or-portland-7
 
 * [15:30, 17:50](https://twitter.com/45thabsurdist/status/1269882746656002049)
 * [Article on curfew](https://www.oregonlive.com/coronavirus/2020/05/portland-curfew-begins-at-8-pm-saturday-in-response-to-overnight-riot-what-that-means-for-you.html)
+
+
+### Police charge protestors, using tear gas and flashbangs to disperse | June 13th
+
+Just after midnight on the morning on June 13th (between 12:30 and 12:40 AM), police used tear gas and flashbangs to clear protestors from barricades. After protestors had been pushed from the park, police charged them on the streets.
+
+It should be noted that the Portland PD is directed by the Portland mayor and a court order to use these riot control methods exclusively as "life saving measures."
+
+tags: tear-gas, flashbangs
+
+id: or-portland-10
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1271710837107875841
+* https://twitter.com/MrOlmos/status/1271713606954958848
+* https://twitter.com/MrOlmos/status/1271715330188967938Ω
+* https://twitter.com/MrOlmos/status/1271723400738648064
+* https://twitter.com/MrOlmos/status/1271715330188967938
 
 
 ### Police apply no-assembly order to journalists | June 15th
