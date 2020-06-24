@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-24T13:59:15.416177+00:00
+UPDATED AT: 2020-06-24T18:00:57.472966+00:00
 
 
 # Alabama
@@ -175,6 +175,27 @@ id: az-phoenix-3
 * [Google doc, allegedly containing complaints by Garfield neighborhood residents](https://docs.google.com/document/d/1BxK7bi8Iim-bOb_A03pUQ1ATFRZfcxAdbCCnowo2kbI/edit?fbclid=IwAR1ofant2QVqUhgOjy6OkB7SSURXA6Vik3i38Mm7X0hTgL1ZtCv7iHVzRVY#)
 * [Mass arrests starting at around 1:03:00 probably, but not definitely, in the Garfield neighborhood](https://www.facebook.com/ABC15/videos/789994464864154/?v=789994464864154)
 * [Similar complaints from Reddit](https://www.reddit.com/r/phoenix/comments/gvdjhw/garfield_neighborhood_was_terrorized_sunday_may_31/)
+
+
+### Protests at Trump rally met with pepper spray | June 23rd
+
+Protestors gathered on the sidewalk and on a shut down street outside a Trump rally in Phoenix, Arizona.
+
+Footage shows police declaring the assembly unlawful and telling protestors to get on the sidewalk even though the street has been shut down. Protestors comply, but later footage shows they are pepper-sprayed while on the sidewalk.
+
+Captions on Twitter and an NPR article state tear gas and flashbangs were deployed.
+
+tags: pepper-spray, tear-gas, flashbangs, spray
+
+id: az-phoenix-4
+
+**Links**
+
+* https://twitter.com/JoshuaPotash/status/1275585545499021313
+* https://twitter.com/gaminogabriel/status/1275573699622494208
+* https://twitter.com/gaminogabriel/status/1275572892508422146
+* https://www.npr.org/2020/06/23/881641178/after-disappointing-tulsa-rally-trump-campaign-moves-to-arizona
+* https://twitter.com/newsjunkyjimmy/status/1275578476871815169
 
 
 
@@ -412,21 +433,6 @@ id: ca-losangeles-5
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
-
-### Police transport arrested protestors using public transportation | May 30th
-
-LAPD using Metro buses to transport arrested protestors after transit service shutdown. 
-
-tags: inhumane-treatment
-
-id: ca-losangeles-23
-
-**Links**
-
-* https://twitter.com/LAist/status/1267006683596775424
-* https://twitter.com/jimw/status/1267666982544932866
-* https://twitter.com/MattHjourno/status/1267658943486017536
-* https://thesource.metro.net/2020/06/01/metro-explains-decision-to-suspend-service-saturday-night-and-law-enforcements-use-of-our-buses/
 
 
 ### Police fire rubber/pepper bullets at innocent protestors | May 31st
@@ -4504,6 +4510,21 @@ id: oh-cincinnati-3
 *  https://twitter.com/nswartsell/status/1267612155840528385
 
 
+### Officer refuses to give diabetic arrestee her insulin back | June 2nd
+
+Protesters are trying to leave at curfew and are offered a ride. They get into a car. One woman identfies that she is diabetic and needs her insulin. Police make them exit the vehicle. We then see the protesters sitting on the ground surrounded by police. The woman again explains to an officer that she needs her insulin from her bag as she is diabetic. The officer refuses.
+
+tags: arrest, inhumane-treatment
+
+id: oh-cincinnati-4
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
+* [Part 1](https://www.tiktok.com/@zestaz/video/6833912697436867845)
+* [Part 2](https://www.tiktok.com/@zestaz/video/6833913925231185158)
+
+
 ## Cleveland
 
 ### Officer swings baton at protesters, beats one who is trying to keep crowd back | believed to be May 30th
@@ -4773,21 +4794,6 @@ id: oh-columbus-13
 * https://www.thelantern.com/2020/06/columbus-mayor-police-chief-address-protest-policing-pepper-spray-of-lantern-journalists/
 * https://twitter.com/TheLantern/status/1267644471317090305
 * https://twitter.com/maevewalsh27/status/1267646128289447939
-
-
-### Officer refuses to give diabetic arrestee her insulin back | June 2nd
-
-Protesters are trying to leave at curfew and are offered a ride. They get into a car. One woman identfies that she is diabetic and needs her insulin. Police make them exit the vehicle. We then see the protesters sitting on the ground surrounded by police. The woman again explains to an officer that she needs her insulin from her bag as she is diabetic. The officer refuses.
-
-tags: arrest, inhumane-treatment
-
-id: oh-columbus-14
-
-**Links**
-
-* https://www.reddit.com/r/PublicFreakout/comments/gvte8e/cop_refuses_to_give_diabetic_woman_her_insulin/
-* [Part 1](https://www.tiktok.com/@zestaz/video/6833912697436867845)
-* [Part 2](https://www.tiktok.com/@zestaz/video/6833913925231185158)
 
 
 ### Bronze star veteran recounts injuries from police at protests  | June 5th
@@ -5117,17 +5123,22 @@ id: pa-philadelphia-1
 * https://twitter.com/UR_Ninja/status/1266913490301792257
 
 
-### Police drag cooperating man from car and punch him in the face
+### Protestor fleeing police jumps in stranger's car; driver pulls over; police beat fleeing protestor, then arrest him, the driver and a passerby filming | 
 
-A black SUV stops while at least a dozen police on bicycles pull up to it. The police open the vehicle's front doors. The passenger is pulled to the ground and then cuffed by several officers. The driver is pushed against the side of the vehicle and cuffed. As both are led to an area behind the vehicle, one officer yells inches away from the passenger's face, then punches him in the face. After the passenger is led away, the same officer walks back up to the passenger, grabs his shirt, and yells at him at close distance.
+Two protestors run from police across an intersection. One jumps into a car's open passenger window. The driver pulls away before the other protestor can enter. The driver then pulls over to the side of the road shortly after. 
 
-tags: arrest, shove, push, threaten, punch
+Police drag the protestor from the car and beat him with batons. After he is arrested, a police officer punches him in the face. 
+
+Police additionally arrest the driver and passerby filming the scene.
+
+tags: arrest, shove, push, threaten, punch, baton, beat, vehicle
 
 id: pa-philadelphia-2
 
 **Links**
 
 * https://youtu.be/QDcCFN_LQPA
+* [driver arrested at 0:40; passerby arrested at 0:47; protester punched (1:40)[https://twitter.com/greg_doucette/status/1269303637060325377]
 
 
 ### Philadelphia cops beat man and forcefully put his fingers on their baton. | May 31st
@@ -6553,6 +6564,43 @@ id: dc-dc-16
 **Links**
 
 * https://twitter.com/JoshuaPotash/status/1275249479554400256
+
+
+### Protestors attempt to vandalize Andrew Jackson statue; police escalate violence | June 22nd
+
+Prior to a much publicized attempt to tear down a statue of Andrew Jackson, police erected a chain-link fence around the statue.
+
+Protestors converged on the statue, pulled down the fence, and threw chains around the statue.
+
+Police met the protestors with immediate violence. An account states police encircled the protestors, preventing any exit, then beat protestors with shields and batons. Police pepper-sprayed protestors as well. The account additionally states police ripped off her friend's glasses and mask to pepper-spray her.
+
+tags: beat, batons, pepepr-spray, spray, shield
+
+id: dc-dc-17
+
+**Links**
+
+* https://twitter.com/Jsc_35/status/1275255059325030401
+* https://twitter.com/Jsc_35/status/1275270995415371776
+* https://twitter.com/Jsc_35/status/1275272881426006018
+
+
+### Police use pepper spray, flashbangs and tear gas to disperse protest | June 23
+
+Multiple videos from Raws media show police use of pepper spray, flashbangs and tear gas to disperse small, peaceful protests. 
+
+Protestors appear to have erected small barricades in the streets using traffic cones and planters. Police fire on protestors at range with flashbangs and tear gas. Then in a later video, police line can be seen chanting, "Move back," while spraying pepper spray.
+
+tags: pepper-spray, spray, tear-gas, flashbangs
+
+id: dc-dc-18
+
+**Links**
+
+* https://twitter.com/rawsmedia/status/1275671784554221574
+* https://twitter.com/rawsmedia/status/1275673321959497729
+* https://twitter.com/rawsmedia/status/1275675725358600192
+* https://twitter.com/rawsmedia/status/1275688665486897152
 
 
 
