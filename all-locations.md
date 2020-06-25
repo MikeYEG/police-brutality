@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-24T21:59:47.037540+00:00
+UPDATED AT: 2020-06-25T18:02:52.546270+00:00
 
 
 # Alabama
@@ -5042,6 +5042,19 @@ id: or-portland-6
 * https://www.wweek.com/news/city/2020/06/07/portland-reporter-pens-first-person-account-of-being-pepper-sprayed-while-filming-an-arrest/
 
 
+### Police push protest back, beating stragglers | (Believed to be) June 6th
+
+In what appears to be the early AM of June 6th, police walk protestors backwards across the park. Footage shows that straggling protestors are met with pushing, shoving and beatings with batons.
+
+tags: baton, shove, strike, push
+
+id: or-portland-18
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1269313407985033216
+
+
 ### Police pull departing protestor from bike to arrest them | June 7th
 
 Body cam footage from a police officer shows police approaching person on a bike, believed to be a protestor leaving the protest. The two officers pull the protestor from the bike to make an arrest, throwing the bike aside. An officer then tells passersby at a convenience store to go home.
@@ -5066,6 +5079,47 @@ id: or-portland-12
 **Links**
 
 * https://twitter.com/TheRealCoryElia/status/1269518318949380098
+
+
+### Police arrest people taking pictures, threaten to arrest press | June 7th
+
+Footage shows a squad car pulling up next to two individuals and a police officer on foot. One officer can be heard saying, "You were standing there taking photos," as he arrests the individuals. Another officer then shouts: "Leave the area or you will be arrested." The filmer states that he is press and the officer reiterates that he will be arrested if he remains.
+
+tags: journalist, arrest
+
+id: or-portland-13
+
+**Links**
+
+* https://twitter.com/AlexMilanTracy/status/1269577129265524736
+
+
+### Police beat protestors | June 7th
+
+Footage shows riot police chasing protestors onto sidewalk near Chapman Square. Tear gas and shots can be heard in the background throughout, as well as an announcement declaring unlawful assembly.
+
+A man filming says, "You are live, you are live." Police then beat him with batons and throw him to the ground to arrest him. Police then arrest another protestor while more officers push protestors back.
+
+tags: arrest, beat, batons, strike
+
+id: or-portland-16
+
+**Links**
+
+* https://twitter.com/AlexMilanTracy/status/1269557908863283200
+
+
+### Police beat protestors in park | June 7th
+
+Footage shows protestors fleeing from tear gas or smoke in a park. Frames are captured that show protestors apparently struggling to breathe. Police can be seen ripping umbrellas from protestors and striking them.
+
+tags: tear-gas, strike, beat, property-destruction
+
+id: or-portland-17
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1269655789595213824
 
 
 ### Officer forces press away from protest | June 8th
@@ -5103,6 +5157,19 @@ id: or-portland-10
 * https://twitter.com/MrOlmos/status/1271715330188967938
 
 
+### Officer strikes journalist with baton | June 14th
+
+Footage depicts a journalist retreating from a charging police line. The journalist rounds the corner, chased by an officer. The officer strikes the journalist with his baton. The journalist shouts, "Media," and the officer replies, "I don't give a shit."
+
+tags: journalist, strike, baton
+
+id: or-portland-15
+
+**Links**
+
+* https://twitter.com/PDXzane/status/1272058454799028226
+
+
 ### Police apply no-assembly order to journalists | June 15th
 
 Early in the morning on June 15th, a police car announces to a journalist walking home that the dispersal order has been given and the journalist's press badge does not exempt them from dispersal orders. The journalist states: "I am a reporter," and the officer replies: "That does not matter at this point. You need to leave the area."
@@ -5114,6 +5181,34 @@ id: or-portland-8
 **Links**
 
 * https://twitter.com/TheRealCoryElia/status/1272427882359353344
+
+
+### Evidence of badges being hidden during the June 6th incident | June 17th
+
+On June 6th, PNW Resistance reported that Portland Police was making a swap to Personal Identification Numbers, in attempt to curve "doxing of officers". This action lead to an incidents that are reported [here](#or-portland-6).
+
+On June 17th, a Portland Attorney submitted a Freedom of Information Act Request to the Portland Police and confirmed that all officers were issued by Commander Erica Hurley to cover their last names and use a "BHR Personnel Number" (PRN).
+
+tags: hide-badges
+
+id: or-portland-19
+
+**Links**
+
+* [Tweet on June 17th enclosed FIA Request by Portland Attorney](https://twitter.com/alankesslr/status/1273299640310325250)
+
+
+### Police disperse press, tell them to run | June 16th
+
+First-person footage from a protest on June 16th shows police telling press to leave the area. As press leave, an officer then says that if press doesn't move faster, they will go to jail. The filmer says, "So you want us to run?" The officer replies, "Yes."
+
+tags: journalist, threaten
+
+id: or-portland-14
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1272796206071087105
 
 
 ## Salem
@@ -6643,6 +6738,21 @@ id: dc-dc-17
 * https://twitter.com/Jsc_35/status/1275255059325030401
 * https://twitter.com/Jsc_35/status/1275270995415371776
 * https://twitter.com/Jsc_35/status/1275272881426006018
+
+
+### Unidentified man working alongside police hits protesters with baton | June 22nd
+
+Video shows police slowly advancing towards protesters, pushing them back. Alongside the police is a man conspicuously wearing "jeans and fatigue-colored ammo belt" wielding a baton. He has no police badge or other identification. He hits and shoves the individual filming. Neither he nor the officers answer when protesters demand to know who the man is and whether he is a cop or a vigilante. A second video in the same twitter thread shows the unidentified man striking a protester and talking with an officer. A third video in the thread shows the man assisting with an arrest. It is unclear whether the police were allowing a civilian without any authority to assault protesters, or whether they were protecting the identity of an officer from some special unit.
+
+tags: beat, batons
+
+id: dc-dc-19
+
+**Links**
+
+* https://twitter.com/JasonPatinkin/status/1275252759634329602
+* https://twitter.com/JasonPatinkin/status/1275294052372615169
+* https://twitter.com/JasonPatinkin/status/1275294840192974848
 
 
 ### Police use pepper spray, flashbangs and tear gas to disperse protest | June 23
