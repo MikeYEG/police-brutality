@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-26T22:00:20.014397+00:00
+UPDATED AT: 2020-06-27T01:57:50.547895+00:00
 
 
 # Alabama
@@ -393,6 +393,7 @@ id: ca-losangeles-2
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
 
+
 ### Los Angeles law enforcement beat protesters with batons | May 30th
 
 A line of Los Angeles law enforcement officers are attempting to get a peaceful crowd to move back, by shoving and using less-than-lethal ammunition (what looks like rubber bullets). While this is happening, a group of officers on one side beat several protesters with batons.
@@ -406,6 +407,8 @@ id: ca-losangeles-3
 * https://twitter.com/larryprincxpark/status/1266883515431505920
 * https://twitter.com/kendrick38/status/1266997131430133761
 * https://twitter.com/ElieTWMayniac/status/1266914242885754880
+* https://www.instagram.com/p/CA1hQ8WHLp1/?igshid=x4dnp455q05t
+* https://abc7.com/6231194/
 
 
 ### ABC7 reporters are hit by tear gas | May 30th
@@ -432,6 +435,7 @@ id: ca-losangeles-5
 **Links**
 
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gxjk67/reposted_wo_officer_name_footage_of_lapd_at_last/
+* https://twitter.com/greg_doucette/status/1269101214706421760
 
 
 ### Los Angeles law enforcement beat protesters with batons while they have their hands up | May 30th
@@ -448,7 +452,7 @@ id: ca-losangeles-24
 * https://twitter.com/greg_doucette/status/1267605209745887233
 
 
-### Police fire rubber/pepper bullets at innocent protestors | May 31st
+### Police fire rubber/pepper bullets at peaceful protestors | May 31st
 
 The chants of "don't shoot" are very clear, and at around 0:20, the police opens fire on the peaceful protestors, scattering them.
 
@@ -500,20 +504,6 @@ id: ca-losangeles-9
 * https://twitter.com/LowkeySinistra/status/1267109420955086848
 * https://twitter.com/LowkeySinistra/status/1267871561714790401
 * https://www.foxnews.com/media/marine-corps-veteran-shot-with-rubber-bullets-by-police-at-protest-i-had-my-hands-up
-
-
-### Los Angeles law enforcement beat protesters for no apparent reason.  | May 31st
-
-Los Angeles law enforcement beat protesters for no apparent reason.
-
-tags: beat, baton, projectile, shoot
-
-id: ca-losangeles-10
-
-**Links**
-
-* https://twitter.com/MattMcGorry/status/1267217360894562306
-* https://abc7.com/6231194/
 
 
 ### Police tackle and arrest protester, indiscriminately beat others with batons and shoot them with less lethals | May 31st
@@ -574,18 +564,17 @@ id: ca-losangeles-16
 * https://www.tiktok.com/@w17ard/video/6833082563913977093?lang=en
 
 
-### Police strike protestors with batons | June 1st
+### Police beat kneeling protestors | (Believed to be) May 31st
 
-Multiple police officers begin striking protestors with their batons. The video does not show any reason for the assault and protestors can be seen to be raising their hands. Another police officer fires a projectile (tear gas canister?) into the crowd from a range of approximately 3m.
+Protestors kneeling in the street are approached by a line of police in riot gear. Police beat them with their shields, shove them, and appear to be arresting them when a riot round is fired and the camera moves.
 
-tags: baton, beat, projectile, tear-gas, tear-gas-canister
+tags: beat, shove, shield, arrest
 
-id: ca-losangeles-14
+id: ca-losangeles-28
 
 **Links**
 
-* https://streamable.com/ja2fw6 (with audio)
-* https://www.reddit.com/r/PublicFreakout/comments/gv8vaw/lapd_beating_and_shooting_peaceful_protesters_for/
+* https://twitter.com/jkishore/status/1267216022634999808
 
 
 ### Police shoot rubber bullets at two peaceful protestors | June 1st
@@ -602,7 +591,7 @@ id: ca-losangeles-15
 * https://tikitoks.com/@jacksonmonroe/video/6833397689187716358
 
 
-### LAPD destroy car to drag out occupants | (Believed to be) June 1
+### LAPD destroy car to drag out occupants | (Believed to be) June 1st
 
 LAPD seen smashing windows to drag passengers & driver out of a stopped car. The people inside said they were out protesting. So far LAPD hasn’t said why the stop was made.
 
@@ -613,6 +602,22 @@ id: ca-losangeles-25
 **Links**
 
 * https://twitter.com/GadiNBC/status/1268016449320177665
+
+
+### Business owner flags down police for protection from looters; she is arrested | June 1st
+
+Alleged looters and the owner and employees at a liquor store stood off outside store. A crowd had assembled to help the employees. Seeing a police cruiser passing by, one black employee flagged down the officers to request help.
+
+The employee was arrested, along with her husband and others helping them, while the alleged looters ran off. The employee says she told police they had the wrong people and the criminals were getting away. She says the officer arresting her said, "I don't care about them." In addition, she says she was thrown against a wall when arrested.
+
+tags: racial-profiling, arrest, shove
+
+id: ca-losangeles-26
+
+**Links**
+
+* https://www.cbsnews.com/news/police-handcuff-good-samaritans-protect-store-looters/
+* https://twitter.com/bubbaprog/status/1267641851215036416
 
 
 ### LAPD officers fire at passers by out of the window of a patrol car | June 2nd
@@ -650,6 +655,36 @@ id: ca-losangeles-17
 * https://www.instagram.com/p/CBCiZXOlno4/
 * https://twitter.com/Terminal_Redux/status/1268870944615026690
 * https://abc7.com/society/homeless-man-hit-in-face-with-rubber-bullet-amid-la-protest-witnesses-say/6234476/
+
+
+### Police fire into backs of protestors | June 2nd
+
+A handful of protestors are seen walking away from police with their hands up. Police shoot at the protestors repeatedly for the duration of the video, about 40 seconds.
+
+tags: shoot, projectile
+
+id: ca-losangeles-27
+
+**Links**
+
+* https://twitter.com/MattMcGorry/status/1268455032032133122
+
+
+### Officer strikes peaceful crowd with baton, police then fire riot rounds | (Believed to be) June 2nd
+
+Footage shows police near a group of protestors. One officer walks across the line of protestors, shoving many of them with his baton. Another officer then shoves an individual in a wheelchair. A third officer then grabs the wheelchair and pushes that individual away, back behind the police line.
+
+Protestors become agitated and police begin firing riot rounds.
+
+After 50 seconds, footage cuts to various other incidents.
+
+tags: baton, strike, person-with-disability, shoot, shove
+
+id: ca-losangeles-31
+
+**Links**
+
+* https://twitter.com/ricci_sergienko/status/1267685230799777793
 
 
 ### Police zip tie protesters and lock them inside cages | June 3rd
@@ -708,6 +743,21 @@ id: ca-losangeles-22
 **Links**
 * https://www.reddit.com/r/PublicFreakout/comments/hdrvxc/police_in_la_open_fire_on_group_protesting_the/
 * https://twitter.com/josie_huang/status/1274863117004988416
+
+
+### Protestor shot in head | Date Unknown
+
+Footage shows a protestor sitting on the curb. They are bleeding from a wound to the head. Other protestors are attempting to treat them.
+
+Caption states that the journalist who submitted the video says the protestor was shot in the head, then police gave a dispersal order.
+
+tags: shoot, projectiles
+
+id: ca-losangeles-30
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268052132252602368
 
 
 ## Oakland
@@ -958,9 +1008,9 @@ id: ca-sanjose-5
 * https://www.youtube.com/watch?v=89mUHzu3480
 
 
-### Police strike man with motorcylce | May 31st
+### Police strike man with motorcycle | May 31st
 
-A man is seen run across a street, chased by several officers. An officer on a motorcycle strikes him and he is arrested.
+A man is seen running across a street, chased by several officers. An officer on a motorcycle strikes him and he is arrested.
 
 Officers allege he was seen attempting to break into a bank after curfew.
 
@@ -1899,16 +1949,20 @@ Victim states that officers kneeled on her neck, that shards of glass from her b
 
 After release (with neither charges nor explanation), the victim attempted to file a complaint but was told the complaint line was unnaccesible.
 
+This was reported to have happened at "2600 N. Narragansett Ave.", but 2700 N seems slightly more accurate. Google Streetview at that address shows the same "Show Carnival" store seen in the video.
+
 tags: shove, throw, arrest, property-destruction, knee-on-kneck, knee, inhumane-treatment
 
 id: il-chicago-4
 
 **Links**
+
 * https://twitter.com/cruzzzyc/status/1267185423333199874
 * https://twitter.com/AdrienneWrites/status/1267534983054254081
 * https://blockclubchicago.org/2020/06/03/black-women-pulled-from-car-kneeled-on-by-chicago-police-officers-outside-northwest-side-mall-i-was-scared-for-my-life/
 * https://chicago.cbslocal.com/2020/06/03/police-drag-women-out-of-car-outside-brickyard-mall-woman-says-officer-put-knee-on-neck/
 * https://twitter.com/greg_doucette/status/1267594960955748352
+* [Location in Google Maps](https://goo.gl/maps/2m2kHLCaQP8h51az8)
 
 
 ### Cops hit Chicago Police Board President | May 31st
@@ -3333,7 +3387,7 @@ id: nv-lasvegas-4
 * https://twitter.com/bridgetkbennett/status/1266561128185819136
 
 
-### Police charge into peaceful crowd shouting "grab anybody" | June 1st
+### Police charge into peaceful crowd shouting "grab anybody" | May 31st
 
 LVPD attacked and arrested peaceful protestors, grabbing "anybody" indiscriminately. At 0:28, an officer in the background can be seen kicking a falling protester. At 0:40, an officer shoves two protesters. Two photojournalists were among those arrested.
 
@@ -3372,6 +3426,21 @@ id: nv-lasvegas-5
 
 * https://www.tiktok.com/@lord.vizi/video/6833826921755741445
 * https://www.tiktok.com/@lord.vizi/video/6833963763486461190
+
+
+### Police charge and shove protestors | June 20th
+
+Footage shows riot police suddenly charge into a crowd, potentially chasing a fleeing suspect. However, they shove their way through the crowd, striking peaceful protestors. They can be seen throwing multiple individuals to the ground and kicking one.
+
+tags: shove, tackle, throw, kick
+
+id: nv-lasvegas-6
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/hcfocc/cops_rush_protest_crowd_in_las_vegas/
+* https://twitter.com/SodASierra/status/1274719985416286209
+* https://www.youtube.com/watch?v=C5mj1JMCpvs
 
 
 
@@ -5309,6 +5378,19 @@ id: or-portland-8
 * https://twitter.com/TheRealCoryElia/status/1272427882359353344
 
 
+### Police disperse press, tell them to run | June 16th
+
+First-person footage from a protest on June 16th shows police telling press to leave the area. As press leave, an officer then says that if press doesn't move faster, they will go to jail. The filmer says, "So you want us to run?" The officer replies, "Yes."
+
+tags: journalist, threaten
+
+id: or-portland-14
+
+**Links**
+
+* https://twitter.com/MrOlmos/status/1272796206071087105
+
+
 ### Evidence of badges being hidden during the June 6th incident | June 17th
 
 On June 6th, PNW Resistance reported that Portland Police was making a swap to Personal Identification Numbers, in attempt to curve "doxing of officers". This action lead to an incidents that are reported [here](#or-portland-6).
@@ -5324,17 +5406,51 @@ id: or-portland-19
 * [Tweet on June 17th enclosed FIA Request by Portland Attorney](https://twitter.com/alankesslr/status/1273299640310325250)
 
 
-### Police disperse press, tell them to run | June 16th
+### Protestor bleeding from head after he was shot by police | June 19th
 
-First-person footage from a protest on June 16th shows police telling press to leave the area. As press leave, an officer then says that if press doesn't move faster, they will go to jail. The filmer says, "So you want us to run?" The officer replies, "Yes."
+A screenshot of a Tweet from @1misanthrophile shows a protestor bleeding from the head after being shot by police. The poster claims to have been watching a livestream, in which protestors say the man was struck by a rubber bullet.
 
-tags: journalist, threaten
+tags: shoot, rubber-bullets
 
-id: or-portland-14
+id: or-portland-29
 
 **Links**
 
-* https://twitter.com/MrOlmos/status/1272796206071087105
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hchk22/portland_police_shot_a_protester_in_the_head/
+
+
+### Police tear gas fleeing protestors, pull individuals from cars | June 26th
+
+Tear gas can be seen fired at protestors fleeing after a standoff with police. Police alleged that protestors started a dumpster fire; protestors deny this. There are passing cars caught in the tear gas. Police flag down one vehicle and pull its occupants out, while continuing to fire tear gas in the immediate area.
+
+tags: tear-gas, vehicle, grab
+
+id: or-portland-27
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1276446115831803906
+
+
+### Police use flashbangs and tear gas to disperse protestors, catching lawyers and journalists in the fray | June 26th
+
+Footage shows police using tear gas and flashbangs to push already-fleeing protestors. The filmer, a journalist, states that he was struck by a ricocheting canister and that police targeted a group of lawyers. In addition, he states that police threw grenades under passing vehicles.
+
+Additional footage shows consistent use of tear gas throughout the night.
+
+Additional images show foam bullets & tear gas canisters used during protests. It should be noted that the mayor of Portland, with the backing of a federal judge, issued a restriction on tear gas: to be used only when a life is at risk.
+
+tags: tear-gas, flashbangs, journalist, projectile, foam-bullets, shoot
+
+id: or-portland-28
+
+**Links**
+
+* https://twitter.com/hungrybowtie/status/1276454928823668738
+* https://twitter.com/hungrybowtie/status/1276453955476680706
+* https://twitter.com/DonovanFarley/status/1276447833244065793
+* https://twitter.com/ProudBulba/status/1276458402034548737
+* https://twitter.com/ghostmobpdx/status/1276462936941187074
 
 
 ## Salem
@@ -6185,6 +6301,19 @@ id: va-manassas-1
 
 ## Richmond
 
+### Police SUV jumps median toward protestors | May 30th
+
+Footage taken on May 30th near Monument Ave shows a police cruiser jump the median where a crowd of protestors are gathered. Protestors are forced to run to avoid being hit.
+
+tags: vehicle
+
+id: va-richmond-9
+
+**Links**
+
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/heif6m/an_older_video_from_the_beginning_of_protests_in/
+
+
 ### Officer sprays a man watching from his balcony | May 31st
 
 A police officer pepper sprayed a man watching from his second floor apartment after spraying three people just walking down the sidewalk.
@@ -6881,7 +7010,7 @@ id: dc-dc-19
 * https://twitter.com/JasonPatinkin/status/1275294840192974848
 
 
-### Police use pepper spray, flashbangs and tear gas to disperse protest | June 23
+### Police use pepper spray, flashbangs and tear gas to disperse protest | June 23rd
 
 Multiple videos from Raws media show police use of pepper spray, flashbangs and tear gas to disperse small, peaceful protests. 
 
@@ -6897,6 +7026,34 @@ id: dc-dc-18
 * https://twitter.com/rawsmedia/status/1275673321959497729
 * https://twitter.com/rawsmedia/status/1275675725358600192
 * https://twitter.com/rawsmedia/status/1275688665486897152
+
+
+### Footage shows officer with tape over badge number | June 23rd
+
+Footage shows an argument between a protestor an officer. The protestor films close to the officer's face; the officer shines his flashlight in the protestor's eye.
+
+Notable, however, is the strip of black tape covering the officer's badge number.
+
+tags: hide-badges
+
+id: dc-dc-20
+
+**Links**
+
+* https://twitter.com/wyattreed13/status/1275623256406581251
+
+
+### Police pepper-spray peaceful protestors | June 23rd
+
+Police can be heard chanting, "Move back," while pushing protestors back through a park. Protestors obeying direction are still pepper sprayed.
+
+tags: pepper-spray, spray
+
+id: dc-dc-21
+
+**Links**
+
+* https://twitter.com/DotElection/status/1275289922740662275
 
 
 
