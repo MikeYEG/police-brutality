@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-27T21:57:50.270717+00:00
+UPDATED AT: 2020-06-28T21:57:50.101656+00:00
 
 
 # Alabama
@@ -628,6 +628,52 @@ id: ca-losangeles-26
 * https://twitter.com/bubbaprog/status/1267641851215036416
 
 
+### Police arrest protesters en masse and detain them in poor conditions | June 1st
+
+Police arrested protesters en masse in downtown Los Angeles. Protesters hands were zip tied excessively tightly behind their backs and they were loaded onto buses and driven around the city. Some were taken to a temporary field jail at UCLA's Jackie Robinson stadium; UCLA claims it "failed to stop" LAPD from using the stadium as a "staging area," but was not told about the field jail until after the fact. Arestees were detained for long periods, still in excessively tight zip ties. Social distancing procedures were not observed. 
+
+Many protesters allege that conditions in the makeshift jails were poor -- detainees denied medical attention and permission to use the restroom, for instance -- and that they were released, many with dead phones, in unfamiliar places in the middle of the night with no way to get home. Two arrestees allege that police prevented them from leaving before the curfew went into effect, then arrested them for violating the curfew. One arrestee alleges that she was twice threatened with guns, that she was sexually assaulted by police, and that police mocked detainees having panic attacks. Police also allegedly arrested at least one homeless person (to whom the curfew was not supposed to apply) for a curfew violation. 
+
+A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild; a separate lawsuit has been filed by one of the arrestees. (See also incidents ca-losangeles-32 (near-identical behavior the following day) and ca-santamonica-2 (similar behavior in Santa Monica).)
+
+tags: abuse-of-power, arrest, homeless, inhumane-treatment, threaten
+
+id: ca-losangeles-19
+
+**Links**
+* [Complaint in NLG lawsuit](https://nlg-la.org/wp-content/uploads/sites/5/2020/06/AMENDED-COMPLAINT-ECF.pdf)
+* [Allegations by protester Laura Montilla](https://www.instagram.com/p/CBBNXXkJs0a/?igshid=jgeposybda4a)
+* [Relevant video](https://www.instagram.com/p/CBEr2emJRyJ/?igshid=oloj7lgtv81t)
+* [Local news coverage mentioning the incident](https://abc7.com/protest-arrest-george-floyd-curfews/6234180/)
+* [LA Times article mentioning both lawsuits](https://www.latimes.com/california/story/2020-06-22/complaints-lapd-abuses-mount-protest-lawsuit)
+* [UCLA disapproves of use of Jackie Robinson stadium for a field jail](https://twitter.com/UCLA/status/1268039753015812096)
+* [First response by UCLA professors, containing further allegations of misconduct by LAPD and LASD](https://twitter.com/ananyaUCLA/status/1267985147225231360)
+* [Second response by UCLA professors](https://drive.google.com/file/d/157MdwMMCEebcUyesO9HMOYK9p21q3gpE/view)
+* https://www.reddit.com/r/LosAngeles/comments/gxi8b2/how_is_noone_talking_about_this_women_from/
+* https://abc7.com/uclas-jackie-robinson-stadium-used-as-field-jail-during-protests-/6229078/
+* https://dailytrojan.com/2020/06/09/police-protocol-compromises-safety-of-student-protesters/
+
+
+### Police arrest protesters en masse and detain them in poor conditions | June 2nd
+
+Police arrested protesters en masse near the home of LA mayor Eric Garcetti and in other parts of the city, zip tied their hands, and held them for extended periods without appropriate social distancing. At least one arrestee alleges that protesters were given explicit permission to remain past the curfew, then arrested for being out after curfew. Many arrestees say they were released in the middle of the night, without transportation home, in unfamiliar parts of the city. 
+
+Several arrestees describe police sexually harassing/assaulting them; other arrestees corroborate these accounts. Two arrestees report that processing of arrestees on their bus was delayed because they requested medical attention and other improvements in their conditions, which would constitute first-amendment-protected speech. Four other arrestees report that processing of arrestees on their bus was delayed because some arrestees removed unsafely-tight zip ties using a lighter. All arrestees who have shared accounts mention officers behaving in a mocking, condescending, and unprofessional manner. One arrestee recalls asking officers to turn on bodycams, and officers refusing to do so. If true, this would be a clear violation of LAPD policy. One arrestee allegedly should have been exempt from the curfew as they were returning home from work. 
+
+A lawsuit has been filed in connection with these and other abuses by the National Lawyers' Guild. (See also incidents ca-losangeles-19 (near-identical behavior the previous day) and ca-santamonica-2 (similar behavior in Santa Monica).)
+
+tags: abuse-of-power, arrest, inhumane-treatment, lgbtq+, threaten
+
+id: ca-losangeles-32
+
+**Links**
+* [Complaint in NLG lawsuit](https://nlg-la.org/wp-content/uploads/sites/5/2020/06/AMENDED-COMPLAINT-ECF.pdf)
+* [LATaco article, with audio](https://www.lataco.com/protest-arrests-horror-accounts/)
+* [Allegations by protester Kayla Soren](https://ips-dc.org/police-kneeled-with-me-then-they-drew-their-guns/)
+* [Allegations by protester Julia Dupuis](https://twitter.com/juliacdupuis/status/1268638919286861824)
+* https://dailytrojan.com/2020/06/09/police-protocol-compromises-safety-of-student-protesters/
+
+
 ### LAPD officers fire at passers by out of the window of a patrol car | June 2nd
 
 A group of people walk down the street as a police car approaches. The police car slows to a stop. The people turn and flee; an officer fires less-than-lethal ammunition out of the police car at them. The police car then continues on its way.
@@ -692,21 +738,6 @@ id: ca-losangeles-31
 **Links**
 
 * https://twitter.com/ricci_sergienko/status/1267685230799777793
-
-
-### Police zip tie protesters and lock them inside cages | June 3rd
-
-Police zip-tied protesters' hands behind their backs and lock them into small cages. Officers also allegedly left them without medical care for hours and abused other prisoners.
-
-tags: arrest, inhumane-treatment
-
-id: ca-losangeles-19
-
-**Links**
-
-* https://www.instagram.com/p/CBEr2emJRyJ/?igshid=oloj7lgtv81t (video on third slide)
-* https://www.instagram.com/p/CBBNXXkJs0a/?igshid=jgeposybda4a
-* https://abc7.com/protest-arrest-george-floyd-curfews/6234180/
 
 
 ### Police fire projectiles at protesters and discharge teargas | June 5th
@@ -1094,6 +1125,30 @@ id: ca-santamonica-1
 **Links**
 
 * https://twitter.com/GIFsZP/status/1267241803750813703
+
+
+
+### Police arrest protesters en masse, confine them for long periods, and improperly zip tie them | May 31st
+
+On May 31st, police arrested numerous protesters for curfew violations. These protesters were zip tied and held for long periods, in tight quarters which did not permit social distancing, then released late at night with no way to get home. At least one detainee alleges that detainees were denied medical care and permission to use the restroom. 
+
+Zip ties were put on too tight. Police attempted to remove zip ties with a long knife (which is not the appropriate tool). This led to multiple protesters being injured, including one who required 21 stitches; it seems unlikely that the knife was appropriately sterilized between uses, raising the possibility of bloodborne pathogen transmission. 
+
+(See also incidents ca-losangeles-19 and ca-losangeles-32 (similar behavior in Los Angeles). Note that the final link incorrectly states that the incident it describes was perpetrated by LAPD; in fact, as several commenters pointed out, it was perpetrated by Santa Monica PD, though there are allegations of similar conduct by the LAPD.)
+
+tags: abuse-of-power, arrest, inhumane-treatment
+
+id: ca-santamonica-2
+
+**Links**
+
+* [Picture of one detainee's hand with stitches; description of what happened](https://www.instagram.com/p/CA88dZmFPPT/)
+* [Another detainee, apparently being injured as her zip ties are removed](https://www.instagram.com/p/CBB2mn6A8pi/)
+* [Images and video of police removing zip ties with a knife, cutting protesters](https://www.instagram.com/p/CBEFX7wlWFa/)
+* [Video of detainees zip tied on a bus. Also includes account of what happened.](https://www.instagram.com/p/CA53NtTAsGr/)
+* [News article, mentioning incident with comment from Santa Monica police](https://abc7.com/protest-arrest-george-floyd-curfews/6234180/)
+* [Example of the appropriate tool to cut zip ties](https://www.lawmens.com/safety-cutter-for-disposable-restraints/?gclid=Cj0KCQjwudb3BRC9ARIsAEa-vUtIsFPg0gSDXLSKkG__DPSoK1K2bQ5d6PZBn-rO3U5rdBEMotdtR18aAjYgEALw_wcB)
+* https://www.reddit.com/r/LosAngeles/comments/gy3e3r/the_lapd_has_been_slicing_into_protesters_hands/?utm_source=share&utm_medium=web2x
 
 
 ## Vallejo
@@ -4526,7 +4581,7 @@ id: nc-raleigh-3
 
 Footage shows violent arrests of 2 protestors. Multiple officers grab the individuals, shoving and pulling them. The officers also shove numerous protestors out of the way.
 
-One of the arrestees was a minor and charges were not filed against them. Police later dropped charges against the adult protestor. 
+One of the arrestees was a minor and charges were not filed against them. Police later dropped charges against the adult protestor.
 
 Police claimed the individuals were blocking the street, but presented no supporting footage and the lack of charges casts doubt on the claim. A tweet from the police states the juvenile protestor was arrested for Assault of an officer, while the adult was arrested for resist, delay and obstruct.
 
@@ -5584,6 +5639,7 @@ id: or-portland-30
 
 * https://www.reddit.com/r/ThatsInsane/comments/hgr2ld/cops_gone_crazyportlandpolice_has_finally_lost/
 * https://www.youtube.com/watch?v=IGW5CpU2C6s
+* [Alternate angle](https://www.reddit.com/r/2020PoliceBrutality/comments/hhf7to/portlandpolice_attack_handful_of_protestors/)
 
 
 ## Salem
@@ -5958,17 +6014,18 @@ id: tn-murfreesboro-1
 
 ## Austin
 
-### Police assault protesters | (believed to be) May 30th
+### Police assault protesters | May 30th
 
-A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters.
+A group of protesters waving signs in front of a group of police officers was suddenly rushed by one police officer, triggering a brawl where police choke-slammed a man into the ground and brandished a shotgun at the protesters. Another protestor shouts at an officer from several feet away; the officer immediately discharges pepper spray.
 
-tags: choke, threaten, gun, beat, punch, baton
+tags: choke, threaten, gun, beat, punch, baton, pepper-spray, spray
 
 id: tx-austin-2
 
 **Links**
 
 * https://gfycat.com/tautimaginativedore
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hhhbeh/5302020_austin/
 
 
 ### Police shoot non-violent protestor in the head | May 30th
@@ -6034,6 +6091,22 @@ id: tx-austin-8
 * https://www.kvue.com/article/news/local/austin-texas-protest-chief-brian-manley-speaks/269-904cf6f3-e619-44ed-ab31-0582508e9c04
 
 
+### Police use horses as weapons | May 30th
+
+In an attempt to clear protestors blocking a road, mounted police began walking their horses into protestors. A handful of protestors refused to move. Rather than arresting the protestors and walking them away, police continued to push them with their horses. At one point, an officer pepper-sprays a protestor. After this protestors begin throwing things at police. The pepper-sprayed protestor swings his sign at the officer. The officer then grabs the protestor by the backpack and drags him down the road until other protestors intervene to free him. Another officer tramples one of these protestors. Protestors continue to shout at police for the duration of the footage.
+
+Charges were filed against the protestor for swinging his sign at police. Police say the sign had a wooden stick attached, but footage indicates it was only a piece of cardboard, cardstock, or similar paper material.
+
+tags: horse, shove, pepper-spray, spray
+
+id: tx-austin-10
+
+**Links**
+
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/h9wn2c/austin_police_used_horses_as_weapons/
+* https://www.fox7austin.com/news/man-arrested-for-striking-austin-police-horse-with-sign
+
+
 ### Police critically injure 20 year old black protester during protests against police violence | May 31st
 
 A 20-year-old black man is hospitalized in critical condition after police shot him with beanbag rounds outside police headquarters Sunday night. He suffered a fractured skull and brain damage.
@@ -6096,6 +6169,24 @@ id: tx-austin-9
 * https://www.reddit.com/r/2020PoliceBrutality/comments/gvjjwg/volunteer_medics_advised_by_police_to_bring_a/
 * https://www.reddit.com/r/PublicFreakout/comments/gwbbjs/protestor_is_shot_in_head_with_rubber_bullet/
 * http://www.thebatt.com/opinion/opinion-his-name-is-justin-howell/article_93a79c44-a5b6-11ea-aa54-ebc0da33cc35.html?fbclid=IwAR11FqXr9dRCKo-ohfeBoO9FdYFRG2uon0nqAkxKO5gZuL_-4EzgukAGcBs
+
+
+### Police kneel on man's neck to make arrest | June 12th
+
+Footage from a news report depicts multiple officers arresting a protestor outside Police Headquarters. The protestor made lewd gestures at police. Police then chased him and arrested him for obstructing a highway. In the arrest, footage clearly shows an officer kneeling on the protestor's neck.
+
+APD is investigating the incident.
+
+This appears to be the same protestor who was charged in tx-austin-10.
+
+tags: arrest, knee, knee-on-neck
+
+id: tx-austin-11
+
+**Links**
+
+* https://www.youtube.com/watch?v=Thrvojgme5I
+* https://www.reddit.com/r/Bad_Cop_No_Donut/comments/hc58jg/austin_police_are_investigating_a_use_of_force/
 
 
 ## Baytown
@@ -6639,9 +6730,9 @@ id: va-richmond-12
 
 ### Police respond to broken windows with excessive force | May 31st
 
-Footage shows a few individuals break off from a protest to smash City Hall windows. Protestors shout at vandals to stop. 
+Footage shows a few individuals break off from a protest to smash City Hall windows. Protestors shout at vandals to stop.
 
-Police then arrive. They arrest multiple individuals near the City Hall windows, including one individual who appeared to approach the vandals in an effort to defuse the situation. 
+Police then arrive. They arrest multiple individuals near the City Hall windows, including one individual who appeared to approach the vandals in an effort to defuse the situation.
 
 Police fire tear gas and riot rounds at protestors during the arrests. Protestors become agitated.
 
@@ -7290,8 +7381,7 @@ id: dc-dc-21
 * https://twitter.com/DotElection/status/1275289922740662275
 
 
-
-### Eyewitness reports police destroyed supplied and attacked medics | June 23rd 
+### Eyewitness reports police destroyed supplied and attacked medics | June 23rd
 
 An eyewitness to protests reports that police pushed protestors away from their protest site that morning. He states that some people were gassed, but equivocates that some people were fighting with the police and those may have been the people who were gassed.
 
